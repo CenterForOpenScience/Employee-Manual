@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ![image alt text](image_0.png)
 
 **Employee Manual**
