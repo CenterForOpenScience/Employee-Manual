@@ -2,9 +2,9 @@
 layout: default
 ---
 
-**Employee Manual**
+##Employee Manual
 
-**Welcome to COS!**
+###Welcome to COS!
 
 Thank you for joining the Center for Open Science (COS) team. COS is a technology start-up with a non-profit agenda. It is a dynamic, innovative, aspirational, high-energy organization that aims to serve the scientific community. COS seeks to integrate and/or collaborate with other projects, organizations, and infrastructures rather than competing or reinventing. We put the values we preach into action daily and aim to be an employer of choice by engaging in open communication, having well defined values, and a strong team. COS’s most precious asset is you - the staff. Together, we will build state of the art tools and help to improve scientific practices.   
 
@@ -12,7 +12,7 @@ Sincerely,
 
 Brian Nosek and Jeffrey Spies
 
-**COS Mission and Values**
+##COS Mission and Values
 
 The Center for Open Science (COS) was founded January 15, 2013. COS aims to increase the openness, integrity, and reproducibility of scientific research.  We will achieve this mission through three primary activities: 
 
@@ -22,7 +22,7 @@ The Center for Open Science (COS) was founded January 15, 2013. COS aims to incr
 
 3. Conducting metascience research to improve the empirical evidence for the state of scientific practices and evaluation of means to improve those practices. 
 
-**Standing Meetings**
+##Standing Meetings
 
 The COS team meets each week day (Monday - Friday) at 9:15 AM for 15 minutes or less to check-in about the day’s tasks. During these meeting Trello is used to organize tasks and to promote accountability. Each morning a new board is created and staff members document their daily goals and share them briefly with the rest of the team. 
 
@@ -30,19 +30,19 @@ Two staff meetings each week are catered lunches at 12:30 on Tuesdays and 12:00 
 
 The Development team meets Tuesdays at 2:30p for up to an hour for operational planning of tasks and presentation of mock-ups or working models.
 
-**Attendance**
+##Attendance
 
 Digital technologies enable high connectivity at a distance. However, many of the COS projects benefit from real-time face-to-face contact whenever feasible. As such, the standard expectation is for team members to be present in the office during ordinary business hours. 
 
-**Security and Office Access**
+##Security and Office Access
 
 COS offices will be accessible to staff at all times - even during non-standard business hours. All COS staff will receive an access card to Suite 500 and a passkey for accessing the Omni Downtown Business Center during non-business hours. Should an access card be misplaced, please request a new copy from the Office Manager. The last person to leave the offices is responsible for making sure the front and back doors are locked and the security system is re-armed. 
 
-**Location**
+##Location
 
 COS offices are located in the Business Center of the Downtown Omni Hotel which is within walking distance to the historic Charlottesville Downtown Mall.  The area boasts variety of locally owned restaurants, shops, bars, and music venues and is the social and commercial center of Charlottesville.  This prime location provides lifestyle value to the staff and is convenient for visitors to work with COS and enjoy the pleasures of Charlottesville.
 
-**Dress Code**
+##Dress Code
 
 Staff can dress how they wish, following reasonable community standards for appropriate attire.  For example, there will be frequent visitors. COS is a casual, high-performance environment, but not an unkempt one.
 
@@ -93,7 +93,7 @@ COS staff members will be paid for up to five (5) days to attend the funeral of 
 
 All full-time and part-time staff members will be excused with pay for five (5) days if called to serve jury duty.  
 
-**[Anthem Blue Cross Blue Shield Health Insuranc**e](https://www.anthem.com/health-insurance/home/overview)
+##[Anthem Blue Cross Blue Shield Health Insurance](https://www.anthem.com/health-insurance/home/overview)
 
 COS covers 100% of full-time employee premium costs under the Anthem Blue Cross Blue Shield [Keycare 20 plan](http://www.anthem.com/agent/va/f4/s0/t0/pw_ad091347.pdf) and 50% of all dependent coverage.  COS offers the option to buy up into the Anthem Blue Cross Blue Shield [Keycare 20+ plan](http://www.anthem.com/agent/va/f4/s0/t0/pw_ad091356.pdf?refer=ahpagent&state=nv).  Employees will be responsible for paying cost difference between the two plans for both their individual coverage and any dependents under the Keycare 20+ plan.
 
@@ -103,17 +103,17 @@ Health insurance coverage will begin on the first day of the subsequent month in
 
 Upon separation from COS, a voluntary "Continuation of Coverage" is extended for a maximum of 18-months/1.5 years.  Under this continuation, former employees can remain on the COS insurance plan, but are responsible for paying for the entire health insurance premium for themselves and their dependents by the 15th of each month.  All checks are to be mailed to 210 Ridge McIntire Road, Suite 500, Charlottesville, Virginia 22903. Additional information will be supplied during the time of separation. 
 
-**[Anthem Blue View Visio**n](http://www.anthem.com/wps/portal/ahpfooter?content_path=national/va/f1/s0/t0/pw_b139691.htm&label=Blue%20View%20Vision%20Benefits)
+##[Anthem Blue View Vision](http://www.anthem.com/wps/portal/ahpfooter?content_path=national/va/f1/s0/t0/pw_b139691.htm&label=Blue%20View%20Vision%20Benefits)
 
 COS will cover 100% of full-time employee and all dependent premium costs under Anthem’s Blue View Vision plan. Vision insurance coverage will begin on the first day of the subsequent month in which employees are hired  (i.e., hire date 06/15 - Insurance coverage will begin 07/01). 
 
-**[Guardian Dental Insuranc**e](https://www.guardiananytime.com/)
+##[Guardian Dental Insurance](https://www.guardiananytime.com/)
 
 COS will cover 100% of full-time employee premium costs and 50% of all dependent coverage under the Guardian Dental Insurance plan. 
 
 Dental insurance coverage will begin on the first day of the subsequent month in which employees are hired (i.e., hire date 06/15 - Insurance coverage will begin 07/01). 
 
-**[Principal 401(k**)](http://www.principal.com/index.shtm)
+##[Principal 401(k)](http://www.principal.com/index.shtm)
 
 COS full-time staff over the age of 21 are eligible to participate in the company’s 401(k) plan through Principal Financial Group. COS will offer a matching contribution of 100% up to 3% of pay and then another 50% up to 5% of pay (the full match will be 4% if participants elect to defer 5%). Employees are eligible for enrollment and immediate participation. At the time of initial employment, new employees will receive a 401(k) plan summary and enrollment package. 
 
