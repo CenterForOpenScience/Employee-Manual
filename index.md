@@ -2,8 +2,6 @@
 layout: default
 ---
 
-![image alt text](image_0.png)
-
 **Employee Manual**
 
 **Welcome to COS!**
@@ -14,12 +12,7 @@ Sincerely,
 
 Brian Nosek and Jeffrey Spies
 
-* * *
-
-
 **COS Mission and Values**
-
- 
 
 The Center for Open Science (COS) was founded January 15, 2013. COS aims to increase the openness, integrity, and reproducibility of scientific research.  We will achieve this mission through three primary activities: 
 
@@ -29,9 +22,6 @@ The Center for Open Science (COS) was founded January 15, 2013. COS aims to incr
 
 3. Conducting metascience research to improve the empirical evidence for the state of scientific practices and evaluation of means to improve those practices. 
 
-* * *
-
-
 **Standing Meetings**
 
 The COS team meets each week day (Monday - Friday) at 9:15 AM for 15 minutes or less to check-in about the day’s tasks. During these meeting Trello is used to organize tasks and to promote accountability. Each morning a new board is created and staff members document their daily goals and share them briefly with the rest of the team. 
@@ -40,66 +30,38 @@ Two staff meetings each week are catered lunches at 12:30 on Tuesdays and 12:00 
 
 The Development team meets Tuesdays at 2:30p for up to an hour for operational planning of tasks and presentation of mock-ups or working models.
 
-* * *
-
-
 **Attendance**
 
 Digital technologies enable high connectivity at a distance. However, many of the COS projects benefit from real-time face-to-face contact whenever feasible. As such, the standard expectation is for team members to be present in the office during ordinary business hours. 
-
-* * *
-
 
 **Security and Office Access**
 
 COS offices will be accessible to staff at all times - even during non-standard business hours. All COS staff will receive an access card to Suite 500 and a passkey for accessing the Omni Downtown Business Center during non-business hours. Should an access card be misplaced, please request a new copy from the Office Manager. The last person to leave the offices is responsible for making sure the front and back doors are locked and the security system is re-armed. 
 
-* * *
-
-
 **Location**
 
 COS offices are located in the Business Center of the Downtown Omni Hotel which is within walking distance to the historic Charlottesville Downtown Mall.  The area boasts variety of locally owned restaurants, shops, bars, and music venues and is the social and commercial center of Charlottesville.  This prime location provides lifestyle value to the staff and is convenient for visitors to work with COS and enjoy the pleasures of Charlottesville.
-
-* * *
-
 
 **Dress Code**
 
 Staff can dress how they wish, following reasonable community standards for appropriate attire.  For example, there will be frequent visitors. COS is a casual, high-performance environment, but not an unkempt one.
 
-* * *
-
-
 **Paperless Office**
 
 We encourage digital signatures, scanning receipts, and digital communication. There is little reason or value in using paper when digital technologies allow duplication, extra security options, and easy sharing. The COS has a server for storing and sharing documents that can be accessed while connected to the COS network or VPN. 
-
-* * *
-
 
 **Catered Meals and Fully Stocked Kitchen**
 
 COS provides the staff with catered meals a couple of times per week and our fridge stays stocked with favorite snacks and beverages. Please notify the Office Manager of your individual preferences. 
 
-* * *
-
-
-** **
-
 **Computing**
 
 We are an Apple shop and most of our staff use laptops. Some desks are equipped with 27" monitors for expanding the digital workspace.  If computing availability is not meeting your needs, discuss with the Office Manager to ensure that you have the computing resources needed for success.
-
-* * *
 
 
 **Parking **
 
 COS provides staff with parking passes for the Omni parking garage.  The pass can be used anytime, such as to access the Downtown Mall during weekends for extra curricular activities. There are days that the Omni hosts large events and the parking garage is full.  During those occasions when the parking garage is full, the COS employees are permitted use of the "Valet Parking" spots. Notify the Office Manager if a pass is lost or broken.  Also, notify the Office Manager if a parking pass is not needed or would be used infrequently as reducing the number of passes would be a substantial savings. For infrequent use, COS can issue daily permits.
-
-* * *
-
 
 **Gym Access**
 
@@ -107,50 +69,29 @@ The COS staff has access to the gym facilities at the Omni. This includes access
 
 The Office Manager keeps the gym passes in a small notebook complete with a sign in/sign out sheet to ensure the passes are never misplaced. 
 
-* * *
-
-
 **Flexible Work Schedule**
 
 COS is committed to the well-being of its staff. To honor this, COS allows flexible hours for medical appointments (doctors’ visit, dentist appointment and other necessary appointments to maintain well-being).  Appointments and time out of the office should be noted in the shared Google COS calendar so that others are aware that you will be out of the office.
-
-* * *
-
 
 **Paid Time Off (PTO)**
 
 At the beginning of each year, COS employees receive credit for fifteen (15) days of "Paid Time Off" (PTO).  Upon termination all unused PTO will be forfeited. PTO is not accrued and has no cash value.  Staff must confirm PTO with management and indicate the time off on the COS Google shared calendar. Anyone who cannot work due to an illness or emergency should notify the Office Manager, Director, and Co-Director at minimum. 
 
-* * *
-
-
 **Leave for Unique Life Circumstances**
 
 COS employees may require additional time off in order to deal with a life changing event. To offer support in these circumstances, COS offers paid leave for up to three (3) months to all employees to care for their child after birth, after or during the adoption process, or to care for their spouse, son or daughter, or parent who has a serious health condition. All leave must be taken in the first year after the birth or adoption or the year in which they are caring for their family member. Leave can be taken for second and subsequent children. However, employees are not eligible for another (3) month period of leave unless the expected date of delivery or adoption is at least 12 months after your return to work from a previous period of parental leave.
-
-* * *
-
 
 **Paid Holidays**
 
 The following U.S. holidays are observed by COS and do not count against Paid Time Off credit: New Years Day, Good Friday, Memorial Day, Independence Day, Labor Day, Veterans Day, Thanksgiving Day and Black Friday, Christmas Eve, Christmas Day, and New Years Eve.  We support cultural and community diversity.  If employees celebrate holidays that are not listed above, COS will provide a floating holiday option.
 
-* * *
-
-
 **Bereavement Leave**
 
 COS staff members will be paid for up to five (5) days to attend the funeral of an immediate family member (spouse, children, parents, grandparents, siblings or corresponding in-laws).  If additional time-off is required, it is possible to arrange with the COS management team.  
 
-* * *
-
-
 **Jury Duty**
 
 All full-time and part-time staff members will be excused with pay for five (5) days if called to serve jury duty.  
-
-* * *
-
 
 **[Anthem Blue Cross Blue Shield Health Insuranc**e](https://www.anthem.com/health-insurance/home/overview)
 
@@ -162,15 +103,9 @@ Health insurance coverage will begin on the first day of the subsequent month in
 
 Upon separation from COS, a voluntary "Continuation of Coverage" is extended for a maximum of 18-months/1.5 years.  Under this continuation, former employees can remain on the COS insurance plan, but are responsible for paying for the entire health insurance premium for themselves and their dependents by the 15th of each month.  All checks are to be mailed to 210 Ridge McIntire Road, Suite 500, Charlottesville, Virginia 22903. Additional information will be supplied during the time of separation. 
 
-* * *
-
-
 **[Anthem Blue View Visio**n](http://www.anthem.com/wps/portal/ahpfooter?content_path=national/va/f1/s0/t0/pw_b139691.htm&label=Blue%20View%20Vision%20Benefits)
 
 COS will cover 100% of full-time employee and all dependent premium costs under Anthem’s Blue View Vision plan. Vision insurance coverage will begin on the first day of the subsequent month in which employees are hired  (i.e., hire date 06/15 - Insurance coverage will begin 07/01). 
-
-* * *
- 
 
 **[Guardian Dental Insuranc**e](https://www.guardiananytime.com/)
 
@@ -178,16 +113,11 @@ COS will cover 100% of full-time employee premium costs and 50% of all dependent
 
 Dental insurance coverage will begin on the first day of the subsequent month in which employees are hired (i.e., hire date 06/15 - Insurance coverage will begin 07/01). 
 
-* * *
-
-
 **[Principal 401(k**)](http://www.principal.com/index.shtm)
 
 COS full-time staff over the age of 21 are eligible to participate in the company’s 401(k) plan through Principal Financial Group. COS will offer a matching contribution of 100% up to 3% of pay and then another 50% up to 5% of pay (the full match will be 4% if participants elect to defer 5%). Employees are eligible for enrollment and immediate participation. At the time of initial employment, new employees will receive a 401(k) plan summary and enrollment package. 
 
 All employees will be automatically enrolled within the 401(k) plan at the time of hire at an elective deferral rate of 6%. If employees wish to change their deferral rate to either lower or higher than 6%, they must login through the Principal website. New hires must notify the Office Manager via e-mail of their elective deferral contribution rate and whether their contributions are Roth or traditional prior to the first payroll period in which they are hired. Employees are able to modify their elective deferral rate at any time. If employees make changes to their contribution rates, they are to notify the Office Manager immediately as it impacts payroll. If you have questions regarding this information, please ask the Office Manager or consult Michael Joyce, our 401(k) plan advisor of NorthWestern Mutual [michael.t.joyce@nm.com](mailto:michael.t.joyce@nm.com). 
-
-![image alt text](image_3.png)
 
 Employee Manual Statement of Understanding
 
@@ -196,8 +126,6 @@ This manual is subject to change in accordance with the annual renewals of vario
 Please electronically sign below (//FIRST LAST//) indicating that you have received, read, and understand the COS Employee Manual.  By signing below you are hereby accountable for acknowledging and understanding all future amendments made to this manual. This manual in conjunction with your Offer Letter and Policies and Procedures Manual forms the Terms and Conditions of your employment with COS.  
 
 Employee Name (Printed): 
-
- 
 
 Signed: 
 
