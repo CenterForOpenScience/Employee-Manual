@@ -72,7 +72,7 @@ COS is committed to the well-being of its staff. To honor this, COS allows flexi
 
 ##Paid Time Off (PTO)
 
-At the beginning of each year, COS employees receive credit for fifteen (15) days of "Paid Time Off" (PTO).  Upon termination all unused PTO will be forfeited. PTO is not accrued and has no cash value.  Staff must confirm PTO with management and indicate the time off on the COS Google shared calendar. Anyone who cannot work due to an illness or emergency should notify the Office Manager, Director, and Co-Director at minimum. 
+COS employees receive credit for fifteen (15) days of "Paid Time Off" (PTO) each calendar year; newly hired employees receive this credit on a *pro rata* basis.  Upon termination all unused PTO will be forfeited. PTO is not accrued and has no cash value.  Staff must confirm PTO with management and indicate the time off on the COS Google shared calendar. Anyone who cannot work due to an illness or emergency should notify the Office Manager, Director, and Co-Director at minimum.
 
 ##Leave for Unique Life Circumstances
 
