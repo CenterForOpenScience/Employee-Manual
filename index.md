@@ -4,7 +4,7 @@ layout: default
 
 ##Welcome to COS!
 
-Thank you for joining the Center for Open Science (COS) team. COS is a technology start-up with a non-profit agenda. It is a dynamic, innovative, aspirational, high-energy organization that aims to serve the scientific community. COS seeks to integrate and/or collaborate with other projects, organizations, and infrastructures rather than competing or reinventing. We put the values we preach into action daily and aim to be an employer of choice by engaging in open communication, having well defined values, and a strong team. COS’s most precious asset is you - the staff. Together, we will build state of the art tools and help to improve scientific practices.   
+Thank you for joining the Center for Open Science (COS) team. COS is a technology start-up with a non-profit agenda. It is a dynamic, innovative, aspirational, high-energy organization that aims to serve the scientific community. COS seeks to integrate and/or collaborate with other projects, organizations, and infrastructures rather than competing or reinventing. We put the values we preach into action daily and aim to be an employer of choice by engaging in open communication, having well defined values, and a strong team. COS’s most precious asset is you - the staff. Together, we will build state of the art tools and help to improve scientific practices.    
 
 Sincerely,
 
