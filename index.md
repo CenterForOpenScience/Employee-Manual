@@ -32,9 +32,6 @@ Metascience Meetings: (Thursdays 2 PM) The Metascience team meets to discuss ong
 
 Community Meetings: (Fridays at 2 PM) The Community team meets to strategize for upcoming events COS staff will be attending and participating, and for promoting COS activities and products. 
 
-_______ 
-initial 
-
 ##Attendance
 
 Digital technologies enable high connectivity at a distance. However, many of the COS projects benefit from real-time face-to-face contact whenever feasible. As such, the standard expectation is for team members to be present in the office during ordinary business hours. 
@@ -42,10 +39,6 @@ Digital technologies enable high connectivity at a distance. However, many of th
 ##Security and Office Access
 
 COS offices will be accessible to full-time staff at all times - even during non-standard business hours. All full-time COS staff will receive an access card to Suite 500 for accessing the Omni Downtown Business Center during non-business hours. Should an access card be misplaced, please request a new copy from the Office Manager. The last person to leave the offices is responsible for making sure the front and back doors are locked and the security system is re-armed. (Note: this card is also used for parking at the Omni parking garage). 
-
-
-_______ 
-initial 
 
 ##Location
 
@@ -66,11 +59,6 @@ COS fridge and kitchen cabinets are fully stocked with the staff’s favorite sn
 Fridays are left over days -- many times there will be leftovers from Tuesday and Thursday’s catered lunches. Re-help yourself or take some home with you! 
 
 Also, as a community kitchen, each member of the community is responsible for its cleanliness.  When the dishwasher is full but dirty, start it.  When the dishwasher is full but clean, empty it.  Do not leave food or dishes on the counter or in the sink.
-
-
-_______ 
-initial 
-
 
 ##Computing
 
@@ -148,4 +136,3 @@ Employee Name (Printed):
 Signed: 
 
 Dated: 
-
