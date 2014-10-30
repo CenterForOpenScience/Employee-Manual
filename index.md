@@ -14,19 +14,23 @@ Brian Nosek and Jeffrey Spies
 
 The Center for Open Science (COS) was founded January 15, 2013. COS aims to increase the openness, integrity, and reproducibility of scientific research.  We will achieve this mission through three primary activities: 
 
-1. Developing, maintaining, and connecting infrastructures that support the research workflow and enable open practices.
+Developing, maintaining, and connecting infrastructures that support the research workflow and enable open practices.
+Building a community of developers, scientists, and scientific stakeholders around open practices.
+Conducting metascience research to improve the empirical evidence for the state of scientific practices and evaluation of means to improve those practices. 
 
-2. Building a community of developers, scientists, and scientific stakeholders around open practices.
+##Daily Standup Meetings
 
-3. Conducting metascience research to improve the empirical evidence for the state of scientific practices and evaluation of means to improve those practices. 
+The COS team meets daily (M-F) at 9:30 AM in the small conference room to share 1 major priority they will work on for that day. Prior to the meeting, each staff member is responsible for writing their main priority/goal for the day and crossing off any completed tasks from the previous day(s). During the next stand up meeting, if the priority has not been completed, staff members report obstacles they encountered in completing the task. If the task was successfully completed, the staff member notes a new task. The meeting is important and is <15 minutes.
 
-##Standing Meetings
+Catered Lunches:  On Tuesdays and Thursdays at 12:15 PM COS offers a catered lunch to the staff. Most lunches have a presenter or a planned topic of discussion. If you have food restrictions or allergies, please notify the Office Manager.
 
-The COS team meets each week day (Monday - Friday) at 9:15 AM for 15 minutes or less to check-in about the day’s tasks. During these meeting Trello is used to organize tasks and to promote accountability. Each morning a new board is created and staff members document their daily goals and share them briefly with the rest of the team. 
+Infrastructure Meetings: (Tuesdays 2 PM) The Developer team meets for an hour of planning tasks and presentation of mock-ups and/or working models. 
 
-Two staff meetings each week are catered lunches at 12:30 on Tuesdays and 12:00 on Thursdays. Unless there are other agenda items, Tuesday lunch meetings will have one assigned person presenting on a topic or project for open discussion and Thursday’s lunch meeting will be an informal group discussion.  
+Steering Committee Meetings: (Wednesdays 2 PM) The Management team meets to discuss operational logistics of COS. 
 
-The Development team meets Tuesdays at 2:30p for up to an hour for operational planning of tasks and presentation of mock-ups or working models.
+Metascience Meetings: (Thursdays 2 PM) The Metascience team meets to discuss ongoing Metascience projects, to report progress and to provide general updates. 
+
+Community Meetings: (Fridays at 2 PM) The Community team meets to strategize for upcoming events COS staff will be attending and participating, and for promoting COS activities and products. 
 
 ##Attendance
 
@@ -34,7 +38,7 @@ Digital technologies enable high connectivity at a distance. However, many of th
 
 ##Security and Office Access
 
-COS offices will be accessible to staff at all times - even during non-standard business hours. All COS staff will receive an access card to Suite 500 and a passkey for accessing the Omni Downtown Business Center during non-business hours. Should an access card be misplaced, please request a new copy from the Office Manager. The last person to leave the offices is responsible for making sure the front and back doors are locked and the security system is re-armed. 
+COS offices will be accessible to full-time staff at all times - even during non-standard business hours. All full-time COS staff will receive an access card to Suite 500 for accessing the Omni Downtown Business Center during non-business hours. Should an access card be misplaced, please request a new copy from the Office Manager. The last person to leave the offices is responsible for making sure the front and back doors are locked and the security system is re-armed. (Note: this card is also used for parking at the Omni parking garage). 
 
 ##Location
 
@@ -50,7 +54,11 @@ We encourage digital signatures, scanning receipts, and digital communication. T
 
 ##Catered Meals and Fully Stocked Kitchen
 
-COS provides the staff with catered meals a couple of times per week and our fridge stays stocked with favorite snacks and beverages. Please notify the Office Manager of your individual preferences. 
+COS fridge and kitchen cabinets are fully stocked with the staff’s favorite snacks and beverages (orders are placed at Harris Teeter each Tuesday afternoon). Wednesdays the kitchen will be replenished with snacks and beverages. If you notice the kitchen is out of something, write it on the blue dry erase board. If you have any special requests for snacks or beverages, let the Office Manager know. 
+
+Fridays are left over days -- many times there will be leftovers from Tuesday and Thursday’s catered lunches. Re-help yourself or take some home with you! 
+
+Also, as a community kitchen, each member of the community is responsible for its cleanliness.  When the dishwasher is full but dirty, start it.  When the dishwasher is full but clean, empty it.  Do not leave food or dishes on the counter or in the sink.
 
 ##Computing
 
@@ -64,7 +72,8 @@ COS provides staff with parking passes for the Omni parking garage.  The pass ca
 
 The COS staff has access to the gym facilities at the Omni. This includes access to all exercise equipment, showers, whirlpool, and indoor and outdoor pools.  Up to two COS staff can use the facilities at a time.  Per an agreement with the Omni, if the gym is in heavy use by hotel guests, then COS staff would select another time to workout. 
 
-The Office Manager keeps the gym passes in a small notebook complete with a sign in/sign out sheet to ensure the passes are never misplaced. 
+The Office Manager keeps the gym passes in a small notebook complete with a sign in/sign out sheet to ensure the passes are never misplaced. Be sure to return the pass when you are done using it. 
+
 
 ##Flexible Work Schedule
 
@@ -72,7 +81,7 @@ COS is committed to the well-being of its staff. To honor this, COS allows flexi
 
 ##Paid Time Off (PTO)
 
-At the beginning of each year, COS employees receive credit for fifteen (15) days of "Paid Time Off" (PTO).  Upon termination all unused PTO will be forfeited. PTO is not accrued and has no cash value.  Staff must confirm PTO with management and indicate the time off on the COS Google shared calendar. Anyone who cannot work due to an illness or emergency should notify the Office Manager, Director, and Co-Director at minimum. 
+At the beginning of each year, COS employees receive credit for fifteen (15) days of “Paid Time Off” (PTO).  This benefit for new hires is pro-rated based upon the number of working days remaining in the calendar year. Upon termination all unused PTO will be forfeited. PTO is not accrued and has no cash value.  Staff must confirm PTO with management and indicate the time off on the COS Google shared calendar. Anyone who cannot work due to an illness or emergency should notify the Office Manager, Director, and Co-Director at minimum. 
 
 ##Leave for Unique Life Circumstances
 
@@ -126,4 +135,4 @@ Employee Name (Printed):
 
 Signed: 
 
-Dated:  
+Dated: 
