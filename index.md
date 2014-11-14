@@ -20,7 +20,7 @@ Conducting metascience research to improve the empirical evidence for the state 
 
 ##Daily Standup Meetings
 
-The COS team meets daily (M-F) at 9:30 AM in the small conference room to share 1 major priority they will work on for that day. Prior to the meeting, each staff member is responsible for writing their main priority/goal for the day and crossing off any completed tasks from the previous day(s). During the next stand up meeting, if the priority has not been completed, staff members report obstacles they encountered in completing the task. If the task was successfully completed, the staff member notes a new task. The meeting is important and is <15 minutes.
+The COS team meets daily (M-F) at 9:00 AM in the small conference room to share 1 major priority they will work on for that day. Prior to the meeting, each staff member is responsible for writing their main priority/goal for the day and crossing off any completed tasks from the previous day(s). During the next stand up meeting, if the priority has not been completed, staff members report obstacles they encountered in completing the task. If the task was successfully completed, the staff member notes a new task. The meeting is important and is <15 minutes.
 
 Catered Lunches:  On Tuesdays and Thursdays at 12:15 PM COS offers a catered lunch to the staff. Most lunches have a presenter or a planned topic of discussion. If you have food restrictions or allergies, please notify the Office Manager.
 
