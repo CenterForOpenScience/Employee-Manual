@@ -66,7 +66,7 @@ We are an Apple shop and most of our staff use laptops. Some desks are equipped 
 
 ##Parking
 
-COS provides staff with parking passes for the Omni parking garage.  The pass can be used anytime, such as to access the Downtown Mall during weekends for extra curricular activities. There are days that the Omni hosts large events and the parking garage is full.  During those occasions when the parking garage is full, the COS employees are permitted use of the "Valet Parking" spots. Notify the Office Manager if a pass is lost or broken.  Also, notify the Office Manager if a parking pass is not needed or would be used infrequently as reducing the number of passes would be a substantial savings. For infrequent use, COS can issue daily permits.
+COS provides staff with parking passes for the Omni parking garage.  The pass can be used anytime, such as to access the Downtown Mall during weekends for extra curricular activities. There are days that the Omni hosts large events and the parking garage is full.  During those occasions when the parking garage is full, the COS employees are permitted use of the "Valet Parking" spots. Notify the Office Manager if a pass is lost or broken.  Initial parking passes will be provided and paid for by COS, but replacement passes (due to loss) will be the responsibility of the employee.  Also, notify the Office Manager if a parking pass is not needed or would be used infrequently as reducing the number of passes would be a substantial savings. For infrequent use, COS can issue daily permits.
 
 ##Gym Access
 
