@@ -68,6 +68,22 @@ We are an Apple shop and most of our staff use laptops. Some desks are equipped 
 
 COS provides staff with parking passes for the Omni parking garage.  The pass can be used anytime, such as to access the Downtown Mall during weekends for extra curricular activities. There are days that the Omni hosts large events and the parking garage is full.  During those occasions when the parking garage is full, the COS employees are permitted use of the "Valet Parking" spots. Notify the Office Manager if a pass is lost or broken.  Initial parking passes will be provided and paid for by COS, but replacement passes (due to loss) will be the responsibility of the employee.  Also, notify the Office Manager if a parking pass is not needed or would be used infrequently as reducing the number of passes would be a substantial savings. For infrequent use, COS can issue daily permits.
 
+##Air Travel Policy
+
+COS prioritizes the health and well-being of its staff, and also needs staff members to be at their peak performance capacity when traveling for meetings or to give presentations.  Long distance travel can negatively impact well-being and performance.  As such, default practice is to send COS staff on economy class seats for domestic and international travel that is less than 7 hours flight time, and business class seats for international travel that is more than 7 hours flight time (plus Hawaii and Alaska from the east coast).  This policy may not apply when business class travel is explicitly barred by the funding source.
+
+Business class seats are a considerable additional expense (often 300% more than the economy fare), and COS has a responsibility to be a good steward of its resources.  As such, upgrades to business class will be approached judiciously with the following principles to manage costs.
+
+1. Travelers will seek affordable airfare options for all travel, but are encouraged to accumulate frequent flyer status on a single, preferred airline (travellers may choose the airline that best fits their common travel needs)
+2. Frequent travelers that achieve higher status will earn miles for, but also more frequent “free” upgrades to business or first class travel
+3. Frequent flyer miles earned are for the travelers’ personal use 
+4. For most frequent flyer programs, automatic upgrades are given to frequent travelers for domestic flights when they are available
+5. Some frequent flyer programs also give vouchers for global upgrades for very frequent travelers (e.g., 100,000 miles on United in a year earns 6 global upgrades for the following year).  These vouchers are applicable to certain ticket classes and are usually transferable to other travelers.  COS’s very frequent travelers may earn this status.  COS requests that its very frequent travelers apply these voucher upgrades to COS international flights by him- or herself or to other COS staff for their international travel. This way, COS would have a substantial investment for some international travel, but make this policy more sustainable by making efficient use of the status bonuses earned by frequent travelers.
+6. If a frequent traveler has a significant portion of personal travel that contributed to earning free global upgrades, then he or she could proportionally distribute those upgrades for personal and business travel.  For example, if 6 global upgrades were earned and 33% of the travel was personal, then 2 of the upgrades would be for personal use.
+
+Maintenance of this policy is contingent on effective application of cost efficiency strategies.  Without that, it is unlikely that this could be maintained on an ongoing basis.  As an alternative strategy to the above, COS will explore cost saving opportunities via business accounts with one or more airlines.  
+
+
 ##Gym Access
 
 The COS staff has access to the gym facilities at the Omni. This includes access to all exercise equipment, showers, whirlpool, and indoor and outdoor pools.  Up to two COS staff can use the facilities at a time.  Per an agreement with the Omni, if the gym is in heavy use by hotel guests, then COS staff would select another time to workout. 
