@@ -66,7 +66,7 @@ We are an Apple shop and most of our staff use laptops. Some desks are equipped 
 
 ##Parking
 
-COS provides staff with parking passes for the Omni parking garage.  The pass can be used anytime, such as to access the Downtown Mall during weekends for extra curricular activities. There are days that the Omni hosts large events and the parking garage is full.  During those occasions when the parking garage is full, the COS employees are permitted use of the "Valet Parking" spots. Notify the Office Manager if a pass is lost or broken.  Initial parking passes will be provided and paid for by COS, but replacement passes (due to loss) will be the responsibility of the employee.  Also, notify the Office Manager if a parking pass is not needed or would be used infrequently as reducing the number of passes would be a substantial savings. For infrequent use, COS can issue daily permits.
+Full-time employees will be provided with a parking pass if needed. Because of limited parking and cost, full-time employees are encouraged to use alternative transportation instead of requesting a parking pass if possible.  Other COS team members will not have access to parking passes, and should likewise make use of bus routes, walking, and other modes of transportation. The [Charlottesville City Transit system](http://www.charlottesville.org/Index.aspx?page=3622) offers access to much of the area and all routes coverage at the Downtown Mall, right near the COS offices.  Please take a look at the map, and see how this will work for your transportation needs.  For full-time interns, COS can reimburse for monthly bus passes if needed. Bike parking is provided on the top level of the Omni parking garage.
 
 ##Air Travel Policy
 
