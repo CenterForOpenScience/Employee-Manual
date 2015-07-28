@@ -38,7 +38,7 @@ Digital technologies enable high connectivity at a distance. However, many of th
 
 ##Security and Office Access
 
-COS offices will be accessible to full-time staff at all times - even during non-standard business hours. All full-time COS staff will receive an access card to Suite 500 for accessing the Omni Downtown Business Center during non-business hours. Should an access card be misplaced, please request a new copy from the Office Manager. The last person to leave the offices is responsible for making sure the front and back doors are locked and the security system is re-armed. (Note: this card is also used for parking at the Omni parking garage). 
+COS offices will be accessible to full-time staff at all times - even during non-standard business hours. All full-time COS staff will receive an access card to Suite 500 for accessing the Omni Downtown Business Center during non-business hours. Notify the Office Manager if a pass is lost or broken.  Initial access cards will be provided and paid for by COS, but replacement passes (due to loss) will be the responsibility of the employee. All full-time staff must have a valid and working access card in order to support operations of COS.  The last person to leave the offices is responsible for making sure the front and back doors are locked and the security system is re-armed. (Note: this card is also used for parking at the Omni parking garage). 
 
 ##Location
 
