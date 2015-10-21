@@ -141,7 +141,7 @@ Dental insurance coverage will begin on the first day of the subsequent month in
 
 Open enrollment for dental insurance is May 1 - May 31 of each year. 
 
-##Principal 401(k)
+##Vanguard 401(k)
 
 COS staff who work at least 1,000 hours per year are eligible to participate in the company’s 401(k) plan. COS will offer a matching contribution of 100% up to 3% of pay and then another 50% up to 5% of pay (the full match will be 4% if participants elect to defer 5%). Employees are eligible for enrollment and immediate participation. 
 
@@ -151,7 +151,7 @@ Employees may choose to participate in the plan at anytime or to withdraw their 
 
 ##Long-Term Disability
 
-COS will cover 100% of full-time employee premium costs under Principal’s long term disability plan. Full-time employees are eligible for entry upon hire date and will be automatically enrolled into the plan.  Coverage will begin on the first day of the subsequent month in which employees are hired (i.e., hire date 06/15 - Insurance coverage will begin 07/01).
+COS will cover 100% of full-time employee premium costs under Vanguard’s long term disability plan. Full-time employees are eligible for entry upon hire date and will be automatically enrolled into the plan.  Coverage will begin on the first day of the subsequent month in which employees are hired (i.e., hire date 06/15 - Insurance coverage will begin 07/01).
 
 ##Employee Manual Statement of Understanding
 
