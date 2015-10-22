@@ -21,17 +21,9 @@ The Center for Open Science (COS) was founded January 15, 2013. COS aims to incr
 
 ##Daily Standup Meetings
 
-The COS Team meets daily (M-F) at 9:00 AM in three groups; either meeting in the small room, big room, or bench room.  Room assignments are posted each week around the office.  Each staff member shares their main priority/goal for the previous day, and the current day.  The meeting is important and is <15 minutes. 
+The COS Team meets daily (M-F) at 9:00 AM for company announcements.  Everyone then splits into brief functional team scrum meetings for individual updates. Each staff member shares their main priority/goal for the previous day, the current day, and any barriers preventing progress.  The overall team meeting and scrum meetings are important to attend.
 
 Catered Lunches:  On Tuesdays and Thursdays at 12:30 PM COS offers a catered lunch to the staff. Most lunches have a presenter or a planned topic of discussion. Please remember to fill in the food restrictions field in Zenefits.
-
-Infrastructure Meetings: (Tuesdays 2 PM) The Developer team meets for an hour of planning tasks and presentation of mock-ups and/or working models. 
-
-Steering Committee Meetings: (Wednesdays 2 PM) The Management team meets to discuss operational logistics of COS. 
-
-Metascience Meetings: (Thursdays 2 PM) The Metascience team meets to discuss ongoing Metascience projects, to report progress and to provide general updates. 
-
-Community Meetings: (Fridays at 2 PM) The Community team meets to strategize for upcoming events COS staff will be attending and participating, and for promoting COS activities and products. 
 
 ##Attendance
 
