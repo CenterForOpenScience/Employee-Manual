@@ -21,9 +21,9 @@ The Center for Open Science (COS) was founded January 15, 2013. COS aims to incr
 
 ##Daily Standup Meetings
 
-The COS Team meets daily (M-F) at 9:00 AM for company announcements.  Everyone then splits into brief functional team scrum meetings for individual updates. Each staff member shares their main priority/goal for the previous day, the current day, and any barriers preventing progress.  The overall team meeting and scrum meetings are important to attend.
+The COS Team meets daily (M-F) at 9:00 AM for company announcements. Everyone then splits into brief functional team scrum meetings for individual updates. Each staff member shares their main priority for the previous day, the current day, and any barriers preventing progress. The team meeting and scrum meetings are important to attend.
 
-Catered Lunches:  On Tuesdays and Thursdays at 12:30 PM COS offers a catered lunch to the staff. Most lunches have a presenter or a planned topic of discussion. Please remember to fill in the food restrictions field in Zenefits.
+Catered Lunches: On Tuesdays and Thursdays at 12:30 PM COS offers a catered lunch to the staff. Most lunches have a presenter or a planned topic of discussion. Please remember to fill in the food restrictions field in Zenefits.
 
 ##Attendance
 
@@ -31,7 +31,7 @@ Digital technologies enable high connectivity at a distance. However, many of th
 
 ##Security and Office Access
 
-COS offices will be accessible to full-time staff at all times - even during non-standard business hours. All full-time COS staff will receive an access card to Suite 500 for accessing the Omni Downtown Business Center during non-business hours. Notify the Office Manager if a pass is lost or broken.  Initial access cards will be provided and paid for by COS, but replacement passes (due to loss) will be the responsibility of the employee. All full-time staff must have a valid and working access card in order to support operations of COS.  The last full-time employee to leave the offices is responsible for making sure the front and back doors are locked and the security system is re-armed. (Note: this card is also used for parking at the Omni parking garage). If you encounter difficulties with the alarm system, contact information is located on the key panel for the appropriate staff members; immediately call the staff members listed to notify and report them of this difficulty. 
+COS offices will be accessible to full-time, regular staff at all times - even during non-standard business hours. All full-time COS staff will receive an access card to Suite 500 for accessing the Omni Downtown Business Center during non-business hours. Notify the Human Resources Assistant if a pass is lost or broken. Initial access cards will be provided and paid for by COS, but replacement passes will be the responsibility of the employee ($15 per pass). All full-time, regular staff must have a valid and working access card in order to support operations of COS. The last full-time employee to leave the office is responsible for making sure the front and back doors are locked and the security system is re-armed. (Note: this card is also used for parking at the Omni parking garage). If you encounter difficulties with the alarm system, contact information is located on the key panel for the appropriate staff members; immediately call the staff members listed to notify them.
 
 ##Location
 
@@ -55,26 +55,25 @@ Also, as a community kitchen, each member of the community is responsible for it
 
 ##Computing
 
-We are an Apple shop and most of our staff use laptops. Some desks are equipped with 27" monitors for expanding the digital workspace.  If computing availability is not meeting your needs, discuss with the Office Manager to ensure that you have the computing resources needed for success.
+We are an Apple shop and most of our staff use laptops. Some desks are equipped with 27” monitors for expanding the digital workspace. If computing availability is not meeting your needs, discuss with the Human Resources Assistant to ensure that you have the computing resources needed for success.
 
 ##Parking
 
-Full-time employees will be provided with a parking pass if needed. Because of limited parking and cost, full-time employees are encouraged to use alternative transportation instead of requesting a parking pass if possible.  Other COS team members will not have access to parking passes, and should likewise make use of bus routes, walking, and other modes of transportation. The [Charlottesville City Transit system](http://www.charlottesville.org/Index.aspx?page=3622) offers access to much of the area and all routes coverage at the Downtown Mall, right near the COS offices.  Please take a look at the map, and see how this will work for your transportation needs.  For full-time interns, COS can reimburse for monthly bus passes if needed. Bike parking is provided on the top level of the Omni parking garage.
+Full-time, regular employees will be provided with a parking pass if needed. Because of limited parking and cost, full-time, regular employees are encouraged to use alternative transportation instead of requesting a parking pass if possible. Part-time, regular; full-time, temporary, and part-time, temporary employees will not have access to parking passes, and should likewise make use of bus routes, walking, and other modes of transportation. The Charlottesville City Transit system offers access to much of the area and all routes converge at the Downtown Mall, right near the COS offices. Please take a look at the map, and see how this will work for your transportation needs. For non full-time, regular employees, COS can reimburse for monthly bus passes if needed. Bike parking is provided on the top level of the Omni parking garage.
 
 ##Air Travel Policy
 
-COS prioritizes the health and well-being of its staff, and also needs staff members to be at their peak performance capacity when traveling for meetings or to give presentations.  Long distance travel can negatively impact well-being and performance.  As such, default practice is to send COS staff on economy class seats for domestic and international travel that is less than 7 hours flight time, and business class seats for international travel that is more than 7 hours flight time (plus Hawaii and Alaska from the east coast).  This policy may not apply when business class travel is explicitly barred by the funding source.
+COS prioritizes the health and well-being of its staff, and also needs staff members to be at their peak performance capacity when traveling for meetings or to give presentations. Long distance travel can negatively impact well-being and performance. As such, default practice is to send COS staff on economy class seats for domestic and international travel that is less than 7 hours flight time, and business class seats for international travel that is more than 7 hours flight time (plus Hawaii and Alaska from the east coast). This policy may not apply when business class travel is explicitly barred by the funding source.
 
-Business class seats are a considerable additional expense (often 300% more than the economy fare), and COS has a responsibility to be a good steward of its resources.  As such, upgrades to business class will be approached judiciously with the following principles to manage costs.
+Business class seats are a considerable additional expense (often 300% more than the economy fare), and COS has a responsibility to be a good steward of its resources. As such, upgrades to business class will be approached judiciously with the following principles to manage costs.
 
-1. Travelers will seek affordable airfare options for all travel, but are encouraged to accumulate frequent flyer status on a single, preferred airline (travellers may choose the airline that best fits their common travel needs)
-2. Frequent travelers that achieve higher status will earn miles for, but also more frequent “free” upgrades to business or first class travel
-3. Frequent flyer miles earned are for the travelers’ personal use 
-4. For most frequent flyer programs, automatic upgrades are given to frequent travelers for domestic flights when they are available
-5. Some frequent flyer programs also give vouchers for global upgrades for very frequent travelers (e.g., 100,000 miles on United in a year earns 6 global upgrades for the following year).  These vouchers are applicable to certain ticket classes and are usually transferable to other travelers.  COS’s very frequent travelers may earn this status.  COS requests that its very frequent travelers apply these voucher upgrades to COS international flights by him- or herself or to other COS staff for their international travel. This way, COS would have a substantial investment for some international travel, but make this policy more sustainable by making efficient use of the status bonuses earned by frequent travelers.
-6. If a frequent traveler has a significant portion of personal travel that contributed to earning free global upgrades, then he or she could proportionally distribute those upgrades for personal and business travel.  For example, if 6 global upgrades were earned and 33% of the travel was personal, then 2 of the upgrades would be for personal use.
-
-Maintenance of this policy is contingent on effective application of cost efficiency strategies.  Without that, it is unlikely that this could be maintained on an ongoing basis.  As an alternative strategy to the above, COS will explore cost saving opportunities via business accounts with one or more airlines.  
+Travelers will seek affordable airfare options for all travel, but are encouraged to accumulate frequent flyer status on a single, preferred airline (travellers may choose the airline that best fits their common travel needs)
+Frequent travelers that achieve higher status will earn miles for, but also more frequent “free” upgrades to business or first class travel
+Frequent flyer miles earned are for the travelers’ personal use
+For most frequent flyer programs, automatic upgrades are given to frequent travelers for domestic flights when they are available
+Some frequent flyer programs also give vouchers for global upgrades for very frequent travelers (e.g., 100,000 miles on United in a year earns 6 global upgrades for the following year). These vouchers are applicable to certain ticket classes and are usually transferable to other travelers. COS’s very frequent travelers may earn this status. COS requests that its very frequent travelers apply these voucher upgrades to COS international flights by him- or herself or to other COS staff for their international travel. This way, COS would have a substantial investment for some international travel, but make this policy more sustainable by making efficient use of the status bonuses earned by frequent travelers.
+If a frequent traveler has a significant portion of personal travel that contributed to earning free global upgrades, then he or she could proportionally distribute those upgrades for personal and business travel. For example, if 6 global upgrades were earned and 33% of the travel was personal, then 2 of the upgrades would be for personal use.
+Maintenance of this policy is contingent on effective application of cost efficiency strategies. Without that, it is unlikely that this could be maintained on an ongoing basis. As an alternative strategy to the above, COS will explore cost saving opportunities via business accounts with one or more airlines.
 
 
 ##Gym Access
@@ -86,38 +85,36 @@ The Office Manager keeps the gym passes in a small notebook complete with a sign
 
 ##Flexible Work Schedule
 
-COS is committed to the well-being of its staff. To honor this, COS allows flexible hours for medical appointments (doctors’ visit, dentist appointment and other necessary appointments to maintain well-being).  Appointments and time out of the office must be communicated with the Office Manager and your team. 
+COS is committed to the well-being of its staff. To honor this, COS allows flexible hours for medical appointments (doctors’ visit, dentist appointment and other necessary appointments to maintain well-being).  Appointments and time out of the office must be communicated with the Human Resources Assistant and your team.
 
 ##Paid Time Off (PTO)
 
-At the beginning of each year, COS employees receive credit for fifteen (15) days of “Paid Time Off” (PTO).  This benefit for new hires is pro-rated based upon the number of working days remaining in the calendar year. Upon termination all unused PTO will be forfeited. PTO is not accrued and has no cash value.  Staff must confirm PTO with their management and team. Anyone who cannot work due to an illness or emergency should notify the Office Manager.
+At the beginning of each year, full-time, regular employees receive credit for fifteen (15) days of “Paid Time Off” (PTO).  Part-time, regular employees will be granted PTO proportional to hours worked. This benefit for new hires is prorated based upon the number of working days remaining in the calendar year. Upon termination all unused PTO will be forfeited. PTO is not accrued and has no cash value. Staff must confirm PTO with their management, team, and HR. Anyone who cannot work due to an illness or emergency should notify the HR Assistant.
 
 ##Leave for Unique Life Circumstances
 
-COS employees may require additional time off in order to deal with a life changing event. To offer support in these circumstances, COS offers paid leave for up to three (3) months to all employees to care for their child after birth, after or during the adoption process, or to care for their spouse, son or daughter, or parent who has a serious health condition. All leave must be taken in the first year after the birth or adoption or the year in which they are caring for their family member. Leave can be taken for second and subsequent children. However, employees are not eligible for another (3) month period of leave unless the expected date of delivery or adoption is at least 12 months after your return to work from a previous period of parental leave.
+COS employees may require additional time off in order to deal with a life changing event. To offer support in these circumstances, COS offers paid leave for up to three (3) months to all full-time, regular employees to care for their child after birth, after or during the adoption process, or to care for their spouse, son or daughter, or parent who has a serious health condition.  All part-time, regular staff will be offered a three-week stipend plus an additional 9 weeks unpaid for the same circumstances.  All leave must be taken in the first year after the birth or adoption or the year in which they are caring for their family member. Leave can be taken for second and subsequent children. However, employees are not eligible for another (3) month period of leave unless the expected date of delivery or adoption is at least 12 months after your return to work from a previous period of parental leave.
 
 ##Paid Holidays
 
-The following U.S. holidays are observed by COS and do not count against Paid Time Off credit: New Years Day, Good Friday, Memorial Day, Independence Day, Labor Day, Veterans Day, Thanksgiving Day and Black Friday, Christmas Eve, Christmas Day, and New Years Eve.  We support cultural and community diversity.  If employees celebrate holidays that are not listed above, COS will provide a floating holiday option.
-
+The following U.S. holidays are observed by COS and do not count against Paid Time Off credit for full-time and part-time regular employees: New Year’s Day, Martin Luther King, Jr. Day, Good Friday, Memorial Day, Independence Day, Labor Day Thanksgiving Day and Black Friday, Christmas Eve, Christmas Day, and New Year’s Eve. We support cultural and community diversity. If employees celebrate holidays that are not listed above, COS will provide a floating holiday option.
 ##Bereavement Leave
 
-COS staff members will be paid for up to five (5) days to attend the funeral of a a family member.. If additional time-off is required, it is possible to arrange with the COS management team.  All other requests for time off in relation to bereavement will be decided on a case by case basis, as needed.
+Full-time regular and part-time regular staff will be paid for up to five (5) days to attend the funeral of a family member. If additional time-off is required, it is possible to arrange with the COS management team. All other requests for time off in relation to bereavement will be decided on a case by case basis, as needed.
 
 ##Jury Duty
 
-All full-time and part-time staff members will be excused with pay for five (5) days if called to serve jury duty.  
+All staff members will be excused with pay for five (5) days if called to serve jury duty.  
 
-##Health Insurance
+##Health Insurance (full-time and part-time regular employees)
 
-COS covers 100% of full-time employee premium costs under the Anthem Blue Cross Blue Shield GJBA plan and 50% of all dependent coverage. COS offers the option to buy up into the Anthem Blue Cross Blue Shield GWAA and GYAA plans. Employees will be responsible for paying cost difference between the two plans for both their individual coverage and any dependents under the GWAA and GYAA  plans. These costs will be deducted from the employee’s paycheck pre-tax on a semi-monthly basis. 
+COS offers health, dental, and vision insurance for employees their spouse, and dependents. Coverage will begin on the first day of the subsequent month in which employee is hired (i.e., hire date 06/15 - Insurance coverage will begin 07/01). 
 
-Health insurance coverage will begin on the first day of the subsequent month in which employees are hired (i.e., hire date 06/15 - Insurance coverage will begin 07/01).
+COS covers 100% of employee premium and 50% of all dependent coverage costs under the base plan. COS offers the option to buy up into the Anthem Blue Cross Blue Shield Healthkeepers Platinum OAPOS and Platinum PPO plans. Employees will be responsible for paying cost difference between the two plans for both their individual coverage and any dependents under the Platinum OAPOS and Platinum PPO plans. These costs will be deducted from the employee’s paycheck pre-tax on a bi-monthly basis.
 
-Open enrollment for the health insurance plan is December 1 - December 31 of each year. 
+Open enrollment for the health insurance plan is in November of each year.
 
-Upon separation from COS, a voluntary “Continuation of Coverage” is extended for a maximum of 18-months/1.5 years. Under this continuation, former employees can remain on the COS insurance plan, but are responsible for paying for the entire health insurance premium for themselves and their dependents by the 15th of each month. All checks are to be mailed to 210 Ridge McIntire Road, Suite 500, Charlottesville, Virginia 22903. Additional information will be supplied during the time of separation.
-
+Upon separation from COS, COBRA is extended for a maximum of 18-months/1.5 years. Under this continuation, former full-time and part-time regular employees can remain on the COS insurance plan, but are responsible for paying for the entire health insurance premium for themselves and their dependents by the 15th of each month. All checks are to be mailed to 210 Ridge McIntire Road, Suite 500, Charlottesville, Virginia 22903. Additional information will be supplied during the time of separation through Zenefits.
 
 ##Vision Insurance
 
@@ -127,23 +124,26 @@ Open enrollment for vision insurance is December 1 - December 31 of each year.
 
 ##Dental Insurance
 
-COS will cover 100% of full-time employee premium costs and 50% of all dependent coverage under the Guardian Dental Insurance plan.These costs will be deducted from the employee’s paycheck pre-tax on a semi-monthly basis. 
+COS will cover 100% employee premium costs under Anthem’s Blue View Vision plan and 50% of dependent and spouse premium costs. 
 
-Dental insurance coverage will begin on the first day of the subsequent month in which employees are hired (i.e., hire date 06/15 - Insurance coverage will begin 07/01).
+Open enrollment for vision insurance is in November of each year.
 
-Open enrollment for dental insurance is May 1 - May 31 of each year. 
+Dental Insurance (full-time and part-time regular employees).  
+COS will cover 100% of  employee premium costs and 50% of spouse and dependent coverage under the Guardian Dental Insurance plan. These costs will be deducted from the employee’s paycheck pre-tax on a bi-monthly basis.
+
+Open enrollment for dental insurance is May 1 - May 31 of each year.
 
 ##Vanguard 401(k)
 
-COS staff who work at least 1,000 hours per year are eligible to participate in the company’s 401(k) plan. COS will offer a matching contribution of 100% up to 3% of pay and then another 50% up to 5% of pay (the full match will be 4% if participants elect to defer 5%). Employees are eligible for enrollment and immediate participation. 
+COS full-time regular, and part-time regular employees are eligible to participate in the company’s 401(k) plan. COS will offer a matching contribution of 100% up to 3% of pay and then another 50% up to 5% of pay (the full match will be 4% if participants elect to defer 5%). Full-time regular and part-time regular employees are eligible for enrollment and immediate participation.
 
-New hires must notify the Office Manager via e-mail of their elective deferral contribution rate and whether their contributions are Elective Deferral (pre-tax) or Roth (taxed). Employees are able to modify their elective deferral rate at any time. If employees make changes to their contribution rates, they are to notify the Office Manager immediately via email as it impacts payroll. 
+Employees will be automatically enrolled into the plan at a traditional, elective deferral rate of 6%. Employees are able to modify their elective deferral rate at any time. If employees make changes to their contribution rates, they are to notify the Office Manager immediately via email as it impacts payroll.
 
-Employees may choose to participate in the plan at anytime or to withdraw their participation from the plan at anytime. 
+Employees may choose to participate in the plan at anytime or to withdraw their participation from the plan at anytime.
 
 ##Long-Term Disability
 
-COS will cover 100% of full-time employee premium costs under Vanguard’s long term disability plan. Full-time employees are eligible for entry upon hire date and will be automatically enrolled into the plan.  Coverage will begin on the first day of the subsequent month in which employees are hired (i.e., hire date 06/15 - Insurance coverage will begin 07/01).
+COS will cover 100% of full-time regular employee premium costs under Vanguard’s long-term disability plan.  Employees are eligible for entry upon hire date and will be automatically enrolled into the plan. Coverage will begin on the first day of the subsequent month in which employees are hired (i.e., hire date 06/15 - Insurance coverage will begin 07/01).
 
 ##Employee Manual Statement of Understanding
 
