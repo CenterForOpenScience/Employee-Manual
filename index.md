@@ -101,7 +101,7 @@ The Office Manager keeps the gym passes in a small notebook complete with a sign
 Flexible Work Schedule
 ------------------
 
-COS is committed to the well-being of its staff. To honor this, COS allows flexible hours for medical appointments (doctors’ visit, dentist appointment and other necessary appointments to maintain well-being).  Appointments and time out of the office must be communicated with the Human Resources Assistant and your team.
+COS is committed to the well-being of its staff. To honor this, COS allows flexible hours for medical appointments (doctors’ visit, dentist appointment and other necessary appointments to maintain well-being). Appointments and time out of the office must be communicated with the Human Resources Assistant and your team. COS also supports flexibility in work scheduling. If such flexibility is required (e.g., to support travel-heavy positions), employees must address alternative scheduling with their direct supervisor and, if such alternative scheduling occurs consistently for more than two weeks, be approved by Steering.
 
 Paid Time Off (PTO)
 ------------------
@@ -161,9 +161,14 @@ Open enrollment for dental insurance is May 1 - May 31 of each year.
 Vanguard 401(k)
 ------------------
 
-COS full-time regular, and part-time regular employees are eligible to participate in the company’s 401(k) plan. COS will offer a matching contribution of 100% up to 3% of pay and then another 50% up to 5% of pay (the full match will be 4% if participants elect to defer 5%). Full-time regular and part-time regular employees are eligible for enrollment and immediate participation.
+COS full-time regular, and part-time regular employees are immediately eligible to participate in the company’s 401(k) plan. COS offers a matching contribution of 100% up to 3% of pay and another 50% up to 5% of pay (the full match will be 4% if participants elect to defer 5%).
 
-Employees will be automatically enrolled into the plan at a traditional, elective deferral rate of 6%. Employees are able to modify their elective deferral rate at any time. If employees make changes to their contribution rates, they are to notify the Office Manager immediately via email as it impacts payroll.
+Full-time regular and part-time regular employees will be automatically enrolled into the plan at a traditional, elective deferral rate of 6%. Employees are able to modify their elective deferral rate at any time. If employees make changes to their contribution rates, they are to notify the Office Manager immediately via email as it impacts payroll.
+
+Despite automatic enrollment into the plan, employees are still required to self enroll at the Vanguard website to set up their individual investment elections. 
+
+To enroll and set up your investment elections visit, https://my.vanguardplan.com/vanguard/ProtoReg.cfm. 
+To view the current investment lineup visit, https://drive.google.com/open?id=0B2QLi5K0y5KWZUhCOWRqeVh2VmM
 
 Employees may choose to participate in the plan at anytime or to withdraw their participation from the plan at anytime.
 
