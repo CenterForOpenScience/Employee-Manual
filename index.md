@@ -108,6 +108,11 @@ Paid Time Off (PTO)
 
 At the beginning of each year, full-time, regular employees receive credit for fifteen (15) days of “Paid Time Off” (PTO).  Part-time, regular employees will be granted PTO proportional to hours worked. This benefit for new hires is prorated based upon the number of working days remaining in the calendar year. Upon termination all unused PTO will be forfeited. PTO is not accrued and has no cash value. Staff must confirm PTO with their management, team, and HR. Anyone who cannot work due to an illness or emergency should notify the HR Assistant.
 
+Hourly Time Tracking 
+--------------------
+
+Hourly staff members are responsible for submitting their timecards on time for payroll processing.  Staff who do not meet these requirements will not be paid for their unrecorded time until the next pay period. All overtime hours must be recorded and pre-approved by your manager.  Hourly employees will be added to paycheckrecords.com upon hire, and be sent an email with details and temporary password to log in. If you have missed hours, or need a password reset, please notify the HR assistant.  If you are sick, or need to make a schedule change, please notify the HR assistant. For more detailed information about time card due dates and corresponding pay periods, reference your welcome email from Zenefits. 
+
 Leave for Unique Life Circumstances
 ------------------
 
