@@ -74,6 +74,14 @@ Parking
 
 Full-time, regular employees will be provided with a parking pass if needed. Because of limited parking and cost, full-time, regular employees are encouraged to use alternative transportation instead of requesting a parking pass if possible. Part-time, regular; full-time, temporary, and part-time, temporary employees will not have access to parking passes, and should likewise make use of bus routes, walking, and other modes of transportation. The Charlottesville City Transit system offers access to much of the area and all routes converge at the Downtown Mall, right near the COS offices. Please take a look at the map, and see how this will work for your transportation needs. For non full-time, regular employees, COS can reimburse for monthly bus passes if needed. Bike parking is provided on the top level of the Omni parking garage.
 
+
+COS Green and Healthy Commute Program:
+------------------
+
+COS encourages employees to reduce their impact upon the environment and live a healthy lifestyle. Employees can help the environment and their health by using alternate modes of transportation for commuting to and from the office, and simultaneously address limited available parking in the area.
+
+Employees who are eligible for a parking pass but decline to receive it can claim a bicycle commute or mass transit reimbursement of up to $20/month. This provides reimbursement for bicycle use and maintenance expenses or bus transit passes.  Those that decline a parking pass may also use daily parking validation at the Omni up to 2 times per month for inclement weather or other disruptive situations, and up to $20/month for occasional taxi/Uber use when working in the office beyond a normal work schedule and needing a safe ride home. Reimbursement follows standard procedures.
+
 Air Travel Policy
 ------------------
 
