@@ -109,7 +109,7 @@ The Office Manager keeps the gym passes in a small notebook complete with a sign
 Flexible Work Schedule
 ------------------
 
-COS is committed to the well-being of its staff. To honor this, COS allows flexible hours for medical appointments (doctors’ visit, dentist appointment and other necessary appointments to maintain well-being). Appointments and time out of the office must be communicated with the Human Resources Assistant and your team. COS also supports flexibility in work scheduling. If such flexibility is required (e.g., to support travel-heavy positions), employees must address alternative scheduling with their direct supervisor and, if such alternative scheduling occurs consistently for more than two weeks, be approved by Steering.
+COS is committed to the well-being of its staff. To honor this, COS allows flexible hours for medical appointments (doctors’ visit, dentist appointment and other necessary appointments to maintain well-being). Appointments and time out of the office must be communicated with your team. COS also supports flexibility in work scheduling. If such flexibility is required (e.g., to support travel-heavy positions), employees must address alternative scheduling with their direct supervisor and, if such alternative scheduling occurs consistently for more than two weeks, be discussed with the Human Resources Specialist.
 
 Paid Time Off (PTO)
 ------------------
