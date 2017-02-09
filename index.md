@@ -176,7 +176,7 @@ Vanguard 401(k)
 
 COS full-time regular, and part-time regular employees are immediately eligible to participate in the company’s 401(k) plan. COS offers a matching contribution of 100% up to 3% of pay and another 50% up to 5% of pay (the full match will be 4% if participants elect to defer 5%).
 
-Full-time regular and part-time regular employees will be automatically enrolled into the plan at a traditional, elective deferral rate of 6%. Employees are able to modify their elective deferral rate at any time. If employees make changes to their contribution rates, they are to notify the Office Manager immediately via email as it impacts payroll.
+Full-time regular and part-time regular employees will be automatically enrolled into the plan at a traditional, elective deferral rate of 6%. Employees are able to modify their elective deferral rate at any time. If employees make changes to their contribution rates, they are to notify the Human Resources Specialist immediately via email as it impacts payroll.
 
 Despite automatic enrollment into the plan, employees are still required to self enroll at the Vanguard website to set up their individual investment elections. 
 
