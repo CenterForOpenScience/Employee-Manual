@@ -58,7 +58,7 @@ We encourage digital signatures, scanning receipts, and digital communication. T
 Catered Meals and Fully Stocked Kitchen
 ------------------
 
-The COS refrigerator and kitchen cabinets are fully stocked with the staff’s favorite snacks and beverages. If you notice the kitchen is out of something, write it on the blue dry erase board. If you have any special requests for snacks or beverages, let the Office Manager know.
+The COS refrigerator and kitchen cabinets are fully stocked with the staff’s favorite snacks and beverages. If you notice the kitchen is out of something, write it on the blue dry erase board. If you have any special requests for snacks or beverages, let Human Resources know.
 
 Wednesdays and Fridays are left over days – many times there will be leftovers from Tuesday and Thursday’s catered lunches. Help yourself or take some home with you. Remember: if you’re the last person to eat left-overs, make sure to put them away and clean up. 
 
@@ -103,7 +103,7 @@ Gym Access
 
 COS staff has access to the gym facilities at the Omni. This includes access to all exercise equipment, showers, whirlpool, and indoor and outdoor pools.  Up to two COS staff can use the facilities at a time.  Per an agreement with the Omni, if the gym is in heavy use by hotel guests, then COS staff would select another time to workout. 
 
-The Office Manager keeps the gym passes in a small notebook complete with a sign in/sign out sheet to ensure the passes are never misplaced. Be sure to return the pass when you are done using it. 
+Human Resources keeps the gym passes in a small notebook complete with a sign in/sign out sheet to ensure the passes are never misplaced. Be sure to return the pass when you are done using it. 
 
 
 Flexible Work Schedule
@@ -176,7 +176,7 @@ Vanguard 401(k)
 
 COS full-time regular, and part-time regular employees are immediately eligible to participate in the company’s 401(k) plan. COS offers a matching contribution of 100% up to 3% of pay and another 50% up to 5% of pay (the full match will be 4% if participants elect to defer 5%).
 
-Full-time regular and part-time regular employees will be automatically enrolled into the plan at a traditional, elective deferral rate of 6%. Employees are able to modify their elective deferral rate at any time. If employees make changes to their contribution rates, they are to notify the Office Manager immediately via email as it impacts payroll.
+Full-time regular and part-time regular employees will be automatically enrolled into the plan at a traditional, elective deferral rate of 6%. Employees are able to modify their elective deferral rate at any time. If employees make changes to their contribution rates, they are to notify Human Resources immediately via email as it impacts payroll.
 
 Despite automatic enrollment into the plan, employees are still required to self enroll at the Vanguard website to set up their individual investment elections. 
 
