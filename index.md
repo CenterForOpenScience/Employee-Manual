@@ -58,7 +58,7 @@ We encourage digital signatures, scanning receipts, and digital communication. T
 Catered Meals and Fully Stocked Kitchen
 ------------------
 
-The COS refrigerator and kitchen cabinets are fully stocked with the staff’s favorite snacks and beverages. If you notice the kitchen is out of something, write it on the blue dry erase board. If you have any special requests for snacks or beverages, let the Office Manager know.
+The COS refrigerator and kitchen cabinets are fully stocked with the staff’s favorite snacks and beverages. If you notice the kitchen is out of something, write it on the blue dry erase board. If you have any special requests for snacks or beverages, let the Events and Facilities Manager know.
 
 Wednesdays and Fridays are left over days – many times there will be leftovers from Tuesday and Thursday’s catered lunches. Help yourself or take some home with you. Remember: if you’re the last person to eat left-overs, make sure to put them away and clean up. 
 
@@ -103,7 +103,7 @@ Gym Access
 
 COS staff has access to the gym facilities at the Omni. This includes access to all exercise equipment, showers, whirlpool, and indoor and outdoor pools.  Up to two COS staff can use the facilities at a time.  Per an agreement with the Omni, if the gym is in heavy use by hotel guests, then COS staff would select another time to workout. 
 
-The Office Manager keeps the gym passes in a small notebook complete with a sign in/sign out sheet to ensure the passes are never misplaced. Be sure to return the pass when you are done using it. 
+The Events and Facilities Manager keeps the gym passes in a small notebook complete with a sign in/sign out sheet to ensure the passes are never misplaced. Be sure to return the pass when you are done using it. 
 
 
 Flexible Work Schedule
@@ -114,7 +114,7 @@ COS is committed to the well-being of its staff. To honor this, COS allows flexi
 Paid Time Off (PTO)
 ------------------
 
-At the beginning of each year, full-time, regular employees receive credit for fifteen (15) days of “Paid Time Off” (PTO).  Part-time, regular employees will be granted PTO proportional to hours worked. This benefit for new hires is prorated based upon the number of working days remaining in the calendar year. Upon termination all unused PTO will be forfeited. PTO is not accrued and has no cash value. Staff must confirm PTO with their management, team, and HR. Anyone who cannot work due to an illness or emergency should notify the HR Assistant.
+At the beginning of each year, full-time, regular employees receive credit for fifteen (15) days of “Paid Time Off” (PTO).  Part-time, regular employees will be granted PTO proportional to hours worked. This benefit for new hires is prorated based upon the number of working days remaining in the calendar year. Upon termination all unused PTO will be forfeited. PTO is not accrued and has no cash value. Staff must confirm PTO with their management, team, and HR. Anyone who cannot work due to an illness or emergency should notify the Human Resources Specialist.
 
 Hourly Time Tracking 
 --------------------
