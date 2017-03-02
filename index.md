@@ -141,7 +141,7 @@ Jury Duty
 
 All staff members will be excused with pay for five (5) days if called to serve jury duty.  
 
-Health Insurance (full-time and part-time regular employees)
+Health Insurance (full-time regular employees)
 ------------------
 
 COS offers health, dental, and vision insurance for employees their spouse, and dependents. Coverage will begin on the first day of the subsequent month in which employee is hired (i.e., hire date 06/15 - Insurance coverage will begin 07/01). 
@@ -150,7 +150,7 @@ COS covers 100% of employee premium and 50% of all dependent coverage costs unde
 
 Open enrollment for the health insurance plan is in November of each year.
 
-Upon separation from COS, COBRA is extended for a maximum of 18-months/1.5 years. Under this continuation, former full-time and part-time regular employees can remain on the COS insurance plan, but are responsible for paying for the entire health insurance premium for themselves and their dependents by the 15th of each month. All checks are to be mailed to 210 Ridge McIntire Road, Suite 500, Charlottesville, Virginia 22903. Additional information will be supplied during the time of separation through Zenefits.
+Upon separation from COS, COBRA is extended for a maximum of 18-months/1.5 years. Under this continuation, former full-time and part-time regular employees can remain on the COS insurance plan, but are responsible for paying for the entire health insurance premium for themselves and their dependents by the 15th of each month. All payments will be managed through Zenefits. Additional information will be supplied during the time of separation through Zenefits.
 
 Vision Insurance
 ------------------
