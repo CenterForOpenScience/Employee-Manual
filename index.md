@@ -69,6 +69,24 @@ Computing
 
 We are an Apple shop and most of our staff use laptops. Some desks are equipped with 27” monitors for expanding the digital workspace. If computing availability is not meeting your needs, discuss with the Human Resources Assistant to ensure that you have the computing resources needed for success.
 
+Computer Replacement Program: Guidelines and Procedures
+------------------
+
+To ensure that computing resources are up-to-date and continue to fulfill the everyday computing needs, COS is moving to a computer replacement strategy with the primary goal to replace displays every 5 years and laptops every 3 years as funding allows. Each new laptop will be covered under AppleCare to help promote longevity of the machine.  
+
+Additional goals for this strategy include:
+
+1. Ensuring all staff who are spending at least 10 hours per week (full-time, part-time, interns, and those on course credit) at COS have access to a computer with sufficient capability to support basic computing needs in fulfillment of their work responsibilities and COS operational needs
+2. Ensuring that appropriate computing resources are available at all workstations
+3. Streamlining deployment and support of new equipment as it pertains to the budget and redeployment or disposal of old equipment
+
+When the standard 3-year lifecycle on an existing laptop ends, the options for replacement are as follows: 
+
+1. Propose a custom configuration and size and send it to the Events and Facilities Coordinator for review. At the end of the 3-year cycle, the system will be replaced per this policy and the old system re-deployed within COS or disposed of in accordance with COS policies. 
+2. This program operates on an annual budget defined and approved prior to each fiscal year. Please be mindful of budgetary limits and recognize that others at COS may have equipment upgrade needs greater than yours. If your current laptop is in sufficient working order that allows fulfillment of work related responsibilities, we request that you continue using the current laptop and delay renewal to a later date.
+
+If the laptop needs repair before the 3-year replacement point the employee should contact the Events and Facilities Coordinator for further review. If the laptop can be repaired, the employee will receive a redeployed laptop until their laptop is back in working order. If the laptop cannot be repaired, the redeployed laptop will be issued to the employee until the laptops 3-year lifecycle has been met. 
+
 Parking
 ------------------
 
