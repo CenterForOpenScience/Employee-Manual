@@ -38,7 +38,7 @@ Digital technologies enable high connectivity at a distance. However, many of th
 Security and Office Access
 ------------------
 
-COS offices will be accessible to full-time, regular staff at all times - even during non-standard business hours. All full-time COS staff will receive an access card to Suite 500 for accessing the Omni Downtown Business Center during non-business hours. Notify the Human Resources Assistant if a pass is lost or broken. Initial access cards will be provided and paid for by COS, but replacement passes will be the responsibility of the employee ($15 per pass). All full-time, regular staff must have a valid and working access card in order to support operations of COS. The last full-time employee to leave the office is responsible for making sure the front and back doors are locked and the security system is re-armed. (Note: this card is also used for parking at the Omni parking garage). If you encounter difficulties with the alarm system, contact information is located on the key panel for the appropriate staff members; immediately call the staff members listed to notify them.
+COS offices will be accessible to full-time, regular staff at all times - even during non-standard business hours. All full-time COS staff will receive an access card to Suite 500 for accessing the Omni Downtown Business Center during non-business hours. Notify the Human Resources Specialist if a pass is lost or broken. Initial access cards will be provided and paid for by COS, but replacement passes will be the responsibility of the employee ($15 per pass). All full-time, regular staff must have a valid and working access card in order to support operations of COS. The last full-time employee to leave the office is responsible for making sure the front and back doors are locked and the security system is re-armed. (Note: this card is also used for parking at the Omni parking garage). If you encounter difficulties with the alarm system, contact information is located on the key panel for the appropriate staff members; immediately call the staff members listed to notify them.
 
 Location
 ------------------
@@ -53,12 +53,12 @@ Staff can dress how they wish, following reasonable community standards for appr
 Paperless Office
 ------------------
 
-We encourage digital signatures, scanning receipts, and digital communication. There is little reason or value in using paper when digital technologies allow duplication, extra security options, and easy sharing. COS uses Google Drive for storing and sharing documents. 
+We encourage digital signatures, scanning receipts, and digital communication. There is little reason or value in using paper when digital technologies allow duplication, extra security options, and easy sharing. COS uses Google Drive for storing and sharing documents. Please limit your printing in the office. 
 
 Catered Meals and Fully Stocked Kitchen
 ------------------
 
-The COS refrigerator and kitchen cabinets are fully stocked with the staff’s favorite snacks and beverages. If you notice the kitchen is out of something, write it on the blue dry erase board. If you have any special requests for snacks or beverages, let the Events and Facilities Manager know.
+The COS refrigerator and kitchen cabinets are fully stocked with the staff’s favorite snacks and beverages. If you notice the kitchen is out of something, indicate this on the OSF project: osf.io/ducxj for ordering. If you have any special requests for snacks or beverages, let the Events and Facilities Coordinator know.
 
 Wednesdays and Fridays are left over days – many times there will be leftovers from Tuesday and Thursday’s catered lunches. Help yourself or take some home with you. Remember: if you’re the last person to eat left-overs, make sure to put them away and clean up. 
 
@@ -67,7 +67,7 @@ Also, as a community kitchen, each member of the community is responsible for it
 Computing
 ------------------
 
-We are an Apple shop and most of our staff use laptops. Some desks are equipped with 27” monitors for expanding the digital workspace. If computing availability is not meeting your needs, discuss with the Human Resources Assistant to ensure that you have the computing resources needed for success.
+We are an Apple shop and most of our staff use laptops. Some desks are equipped with 27” monitors for expanding the digital workspace. If computing availability is not meeting your needs, discuss with the Human Resources Specialist to ensure that you have the computing resources needed for success.
 
 Parking
 ------------------
@@ -103,7 +103,7 @@ Gym Access
 
 COS staff has access to the gym facilities at the Omni. This includes access to all exercise equipment, showers, whirlpool, and indoor and outdoor pools.  Up to two COS staff can use the facilities at a time.  Per an agreement with the Omni, if the gym is in heavy use by hotel guests, then COS staff would select another time to workout. 
 
-The Events and Facilities Manager keeps the gym passes in a small notebook complete with a sign in/sign out sheet to ensure the passes are never misplaced. Be sure to return the pass when you are done using it. 
+The Events and Facilities Coordinator keeps the gym passes in a small notebook complete with a sign in/sign out sheet to ensure the passes are never misplaced. Be sure to return the pass when you are done using it. 
 
 
 Flexible Work Schedule
@@ -119,7 +119,7 @@ At the beginning of each year, full-time, regular employees receive credit for f
 Hourly Time Tracking 
 --------------------
 
-Hourly staff members are responsible for submitting their timecards on time for payroll processing.  Staff who do not meet these requirements will not be paid for their unrecorded time until the next pay period. All overtime hours must be recorded and pre-approved by your manager.  Hourly employees will be added to paycheckrecords.com upon hire, and be sent an email with details and temporary password to log in. If you have missed hours, or need a password reset, please notify the HR assistant.  If you are sick, or need to make a schedule change, please notify the HR assistant. For more detailed information about time card due dates and corresponding pay periods, reference your welcome email from Zenefits. 
+Hourly staff members are responsible for submitting their timecards on time for payroll processing.  Staff who do not meet these requirements will not be paid for their unrecorded time until the next pay period. All overtime hours must be recorded and pre-approved by your manager.  Hourly employees will be added to paycheckrecords.com upon hire, and be sent an email with details and temporary password to log in. If you have missed hours, or need a password reset, please notify the HR specialist.  If you are sick, or need to make a schedule change, please notify the HR specialist. For more detailed information about time card due dates and corresponding pay periods, reference your welcome email from Zenefits. 
 
 Leave for Unique Life Circumstances
 ------------------
