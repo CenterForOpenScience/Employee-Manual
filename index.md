@@ -11,8 +11,8 @@ Thank you for joining the Center for Open Science (COS) team. COS is a technolog
 
 Sincerely,
 
-Brian Nosek and Jeffrey Spies
-Co-founders
+Brian Nosek 
+Executive Director 
 
 COS Mission and Values
 ------------------
@@ -28,7 +28,7 @@ Daily Standup Meetings
 
 The COS Team meets daily (M-F) at 9:00 AM for company announcements. Everyone then splits into brief functional team scrum meetings for individual updates. Each staff member shares their main priority for the previous day, the current day, and any barriers preventing progress. The team meeting and scrum meetings are important to attend.
 
-Catered Lunches: On Tuesdays and Thursdays at 12:30 PM COS offers a catered lunch to the staff. Most lunches have a presenter or a planned topic of discussion. Please remember to fill in the food restrictions field in Zenefits.
+Catered Lunches: On Tuesdays at 12:30 PM COS offers a catered lunch to the staff. Most lunches have a presenter or a planned topic of discussion. Please remember to fill in the food restrictions field in Zenefits.
 
 Attendance
 ------------------
@@ -53,14 +53,14 @@ Staff can dress how they wish, following reasonable community standards for appr
 Paperless Office
 ------------------
 
-We encourage digital signatures, scanning receipts, and digital communication. There is little reason or value in using paper when digital technologies allow duplication, extra security options, and easy sharing. COS uses Google Drive for storing and sharing documents. Please limit your printing in the office. 
+We encourage digital signatures, scanning receipts, and digital communication. There is little reason or value in using paper when digital technologies allow duplication, extra security options, and easy sharing. COS uses Google Drive for storing and sharing documents.
 
 Catered Meals and Fully Stocked Kitchen
 ------------------
 
 The COS refrigerator and kitchen cabinets are fully stocked with the staff’s favorite snacks and beverages. If you notice the kitchen is out of something, indicate this on the OSF project: osf.io/ducxj for ordering. If you have any special requests for snacks or beverages, let the Events and Facilities Coordinator know.
 
-Wednesdays and Fridays are left over days – many times there will be leftovers from Tuesday and Thursday’s catered lunches. Help yourself or take some home with you. Remember: if you’re the last person to eat left-overs, make sure to put them away and clean up. 
+Wednesdays are left over days – many times there will be leftovers from Tuesday’s catered lunches. Help yourself or take some home with you. Remember: if you’re the last person to eat left-overs, make sure to put them away and clean up. 
 
 Also, as a community kitchen, each member of the community is responsible for its cleanliness.  When the dishwasher is full but dirty, start it.  When the dishwasher is full but clean, empty it.  Do not leave food or dishes on the counter, in the sink or around the office.
 
@@ -124,7 +124,7 @@ Hourly staff members are responsible for submitting their timecards on time for 
 Leave for Unique Life Circumstances
 ------------------
 
-COS employees may require additional time off in order to deal with a life changing event. To offer support in these circumstances, COS offers paid leave for up to three (3) months to all full-time, regular employees to care for their child after birth, after or during the adoption process, or to care for their spouse, son or daughter, or parent who has a serious health condition.  All part-time, regular staff will be offered a three-week stipend plus an additional 9 weeks unpaid for the same circumstances.  All leave must be taken in the first year after the birth or adoption or the year in which they are caring for their family member. Leave can be taken for second and subsequent children. However, employees are not eligible for another (3) month period of leave unless the expected date of delivery or adoption is at least 12 months after your return to work from a previous period of parental leave.
+COS employees may require additional time off in order to deal with a life changing event. To offer support in these circumstances, COS offers paid leave for up to three (3) months to all full-time, regular employees to care for their child after birth, after or during the adoption process, or to care for their spouse, child, or parent who has a serious health condition.  All part-time, regular staff will be offered a three-week stipend plus an additional 9 weeks unpaid for the same circumstances.  All leave must be taken in the first year after the birth or adoption or the year in which they are caring for their family member. Leave can be taken for second and subsequent children. However, employees are not eligible for another (3) month period of leave unless the expected date of delivery or adoption is at least 12 months after your return to work from a previous period of parental leave.
 
 Remote Work for Unique Life Circumstances
 ------------------
@@ -162,26 +162,24 @@ Vision Insurance
 
 COS will cover 100% of full-time employee and all dependent premium costs under Anthem’s Blue View Vision plan and and 50% of all dependent premium costs. Vision insurance coverage will begin on the first day of the subsequent month in which employees are hired (i.e., hire date 06/15 - Insurance coverage will begin 07/01).
 
-Open enrollment for vision insurance is December 1 - December 31 of each year. 
+Open enrollment for vision insurance is November of each year, with an effective date of December 1st. 
 
 Dental Insurance
 ------------------
 
 COS will cover 100% employee premium costs under Anthem’s Blue View Vision plan and 50% of dependent and spouse premium costs. 
 
-Open enrollment for vision insurance is in November of each year.
+Open enrollment for vision insurance is in November of each year with an effective date of December 1st. 
 
 Dental Insurance (full-time and part-time regular employees).  
 COS will cover 100% of  employee premium costs and 50% of spouse and dependent coverage under the Guardian Dental Insurance plan. These costs will be deducted from the employee’s paycheck pre-tax on a bi-monthly basis.
-
-Open enrollment for dental insurance is May 1 - May 31 of each year.
 
 Vanguard 401(k)
 ------------------
 
 COS full-time regular, and part-time regular employees are immediately eligible to participate in the company’s 401(k) plan. COS offers a matching contribution of 100% up to 3% of pay and another 50% up to 5% of pay (the full match will be 4% if participants elect to defer 5%).
 
-Full-time regular and part-time regular employees will be automatically enrolled into the plan at a traditional, elective deferral rate of 6%. Employees are able to modify their elective deferral rate at any time. If employees make changes to their contribution rates, they are to notify the Human Resources Specialist immediately via email as it impacts payroll.
+Full-time regular and part-time regular employees will be automatically enrolled into the plan at a traditional, elective deferral rate of 6%. Employees are able to modify their elective deferral rate at any time on the Vanguard employee portal. 
 
 Despite automatic enrollment into the plan, employees are still required to self enroll at the Vanguard website to set up their individual investment elections. 
 
