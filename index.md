@@ -157,7 +157,7 @@ COS covers 100% of employee premium and 50% of all dependent coverage costs unde
 
 Open enrollment for the health insurance plan is in November of each year.
 
-Upon separation from COS, COBRA is extended for a maximum of 18-months/1.5 years. Under this continuation, former full-time and part-time regular employees can remain on the COS insurance plan, but are responsible for paying for the entire health insurance premium for themselves and their dependents by the 15th of each month. All payments will be managed through Zenefits. Additional information will be supplied during the time of separation through Zenefits.
+Upon separation from COS, COBRA is extended for a maximum of 18-months/1.5 years. Under this continuation, former full-time and part-time regular employees can remain on the COS insurance plan, but are responsible for paying for the entire health insurance premium for themselves and their dependents by the 15th of each month. All payments will be managed through Zenefits, with COBRA complete acting as third party administrator. Additional information will be supplied during the time of separation through Zenefits.
 
 Vision Insurance
 ------------------
@@ -169,7 +169,9 @@ Open enrollment for vision insurance is November of each year, with an effective
 Dental Insurance
 ------------------
 
-COS will cover 100% of  employee premium costs and 50% of spouse and dependent coverage under the Principal Dental Insurance plan. These costs will be deducted from the employee’s paycheck pre-tax on a bi-monthly basis.
+COS will cover 100% of  employee premium costs and 50% of spouse and dependent coverage under the Principal Dental Insurance plan. 
+
+Open enrollment for dental insurance is November of each year, with an effective date of December 1st
 
 Vanguard 401(k)
 ------------------
