@@ -171,7 +171,7 @@ Dental Insurance
 
 COS will cover 100% of  employee premium costs and 50% of spouse and dependent coverage under the Principal Dental Insurance plan. 
 
-Open enrollment for dental insurance is November of each year, with an effective date of December 1st
+Open enrollment for dental insurance is November of each year, with an effective date of December 1st. 
 
 Vanguard 401(k)
 ------------------
