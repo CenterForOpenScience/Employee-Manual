@@ -53,12 +53,12 @@ Staff can dress how they wish, following reasonable community standards for appr
 Paperless Office
 ------------------
 
-We encourage digital signatures, scanning receipts, and digital communication. There is little reason or value in using paper when digital technologies allow duplication, extra security options, and easy sharing. COS uses Google Drive for storing and sharing documents.
+We encourage digital signatures, scanning receipts, and digital communication. There is little reason or value in using paper when digital technologies allow duplication, extra security options, and easy sharing. COS uses Google Drive for storing and sharing documents. Please avoid printing in the COS office; rather utilize the business office located in the Omni for your printing needs. 
 
 Catered Meals and Fully Stocked Kitchen
 ------------------
 
-The COS refrigerator and kitchen cabinets are fully stocked with the staff’s favorite snacks and beverages. If you notice the kitchen is out of something, indicate this on the OSF project: osf.io/ducxj for ordering. If you have any special requests for snacks or beverages, let the Events and Facilities Coordinator know.
+The COS refrigerator and kitchen cabinets are fully stocked with the staff’s favorite snacks and beverages. If you notice the kitchen is out of something, indicate this on the OSF [project](osf.io/ducxj) for ordering. If you have any special requests for snacks or beverages, let the Events and Facilities Coordinator know.
 
 Wednesdays are left over days – many times there will be leftovers from Tuesday’s catered lunches. Help yourself or take some home with you. Remember: if you’re the last person to eat left-overs, make sure to put them away and clean up. 
 
@@ -80,23 +80,7 @@ COS Green and Healthy Commute Program:
 
 COS encourages employees to reduce their impact upon the environment and live a healthy lifestyle. Employees can help the environment and their health by using alternate modes of transportation for commuting to and from the office, and simultaneously address limited available parking in the area.
 
-Employees who are eligible for a parking pass but decline to receive it can claim a bicycle commute or mass transit reimbursement of up to $20/month. This provides reimbursement for bicycle use and maintenance expenses or bus transit passes.  Those that decline a parking pass may also use daily parking validation at the Omni up to 2 times per month for inclement weather or other disruptive situations, and up to $20/month for occasional taxi/Uber use when working in the office beyond a normal work schedule and needing a safe ride home. Reimbursement follows standard procedures.
-
-Air Travel Policy
-------------------
-
-COS prioritizes the health and well-being of its staff, and also needs staff members to be at their peak performance capacity when traveling for meetings or to give presentations. Long distance travel can negatively impact well-being and performance. As such, default practice is to send COS staff on economy class seats for domestic and international travel that is less than 7 hours flight time, and business class seats for international travel that is more than 7 hours flight time (plus Hawaii and Alaska from the east coast). This policy may not apply when business class travel is explicitly barred by the funding source.
-
-Business class seats are a considerable additional expense (often 300% more than the economy fare), and COS has a responsibility to be a good steward of its resources. As such, upgrades to business class will be approached judiciously with the following principles to manage costs.
-
-Travelers will seek affordable airfare options for all travel, but are encouraged to accumulate frequent flyer status on a single, preferred airline (travellers may choose the airline that best fits their common travel needs)
-Frequent travelers that achieve higher status will earn miles for, but also more frequent “free” upgrades to business or first class travel
-Frequent flyer miles earned are for the travelers’ personal use
-For most frequent flyer programs, automatic upgrades are given to frequent travelers for domestic flights when they are available
-Some frequent flyer programs also give vouchers for global upgrades for very frequent travelers (e.g., 100,000 miles on United in a year earns 6 global upgrades for the following year). These vouchers are applicable to certain ticket classes and are usually transferable to other travelers. COS’s very frequent travelers may earn this status. COS requests that its very frequent travelers apply these voucher upgrades to COS international flights by him- or herself or to other COS staff for their international travel. This way, COS would have a substantial investment for some international travel, but make this policy more sustainable by making efficient use of the status bonuses earned by frequent travelers.
-If a frequent traveler has a significant portion of personal travel that contributed to earning free global upgrades, then he or she could proportionally distribute those upgrades for personal and business travel. For example, if 6 global upgrades were earned and 33% of the travel was personal, then 2 of the upgrades would be for personal use.
-Maintenance of this policy is contingent on effective application of cost efficiency strategies. Without that, it is unlikely that this could be maintained on an ongoing basis. As an alternative strategy to the above, COS will explore cost saving opportunities via business accounts with one or more airlines.
-
+Employees who are eligible for a parking pass but decline to receive it can claim a bicycle commute or mass transit reimbursement of up to $20/month. This provides reimbursement for bicycle use and maintenance expenses or bus transit passes.  Those that decline a parking pass may also use daily parking validation at the Omni up to 2 times per month for inclement weather or other disruptive situations, and up to $20/month for occasional taxi/Uber use when working in the office beyond a normal work schedule. Reimbursement follows standard procedures.
 
 Gym Access
 ------------------
@@ -105,11 +89,12 @@ COS staff has access to the gym facilities at the Omni. This includes access to 
 
 The Events and Facilities Coordinator keeps the gym passes in a small notebook complete with a sign in/sign out sheet to ensure the passes are never misplaced. Be sure to return the pass when you are done using it. 
 
+Staff also have the option to enroll in payroll deduction for their ACAC (gym) membership dues. Please see the Human Resources Specialist if you are interested in this program or would like more information. 
 
 Flexible Work Schedule
 ------------------
 
-COS is committed to the well-being of its staff. To honor this, COS allows flexible hours for medical appointments (doctors’ visit, dentist appointment and other necessary appointments to maintain well-being). Appointments and time out of the office must be communicated with your team. COS also supports flexibility in work scheduling. If such flexibility is required (e.g., to support travel-heavy positions), employees must address alternative scheduling with their direct supervisor and, if such alternative scheduling occurs consistently for more than two weeks, be discussed with the Human Resources Specialist.
+COS is committed to the well-being of its staff. To honor this, COS allows flexible hours for medical appointments (doctors’ visit, dentist appointment and other necessary appointments to maintain well-being). Appointments and time out of the office must be communicated with your team. COS also supports flexibility in work scheduling. If such flexibility is required (e.g., to support travel-heavy positions), employees must address alternative scheduling with their manager and, if such alternative scheduling occurs consistently for more than two weeks, be discussed with the Human Resources Specialist.
 
 Paid Time Off (PTO)
 ------------------
@@ -123,7 +108,7 @@ All staff who cannot work due to an illness or emergency should notify the Human
 Hourly Time Tracking 
 --------------------
 
-Hourly staff members are responsible for submitting their timecards on time for payroll processing.  Staff who do not meet these requirements will not be paid for their unrecorded time until the next pay period. All overtime hours must be recorded and pre-approved by your manager.  Hourly employees will be added to paycheckrecords.com upon hire, and be sent an email with details and temporary password to log in. If you have missed hours, or need a password reset, please notify the HR specialist.  If you are sick, or need to make a schedule change, please notify the HR specialist. For more detailed information about time card due dates and corresponding pay periods, reference your welcome email from Zenefits. 
+Hourly staff members are responsible for submitting their timecards on time for payroll processing.  Staff who do not meet these requirements will not be paid for their unrecorded time until the next pay period. All overtime hours must be recorded and pre-approved by your manager.  Hourly employees will be added to paycheckrecords.com upon hire, and be sent an email with details and temporary password to log in. If you have missed hours, or need a password reset, please notify the HR specialist.  If you are sick, or need to make a schedule change, please notify the Human Resources specialist. For more detailed information about time card due dates and corresponding pay periods, reference your welcome email from Zenefits. 
 
 Leave for Unique Life Circumstances
 ------------------
@@ -135,20 +120,33 @@ Remote Work for Unique Life Circumstances
 
 COS employees may request an extended remote work arrangement in order to deal with a life changing event. Example events include temporary relocation to care for a family or friend with a serious health condition, relocation with a spouse who takes a new job elsewhere, or a change in family circumstances making daily commutes to COS impractical. To offer support in these circumstances, COS offers the flexibility to work from different geographic locations with some basic requirements. Employees must commit to participate remotely in daily team scrums, have reliable Internet access to participate in video conference calls as needed, commit to work within mostly normal Eastern business hours schedule, and commit to be in the office to meet with the team in-person at an interval agreed upon with their supervisor. Remote work arrangements will typically begin as a 6-week trial period with a formal review and decision whether to extend and if any changes to the agreement are necessary. All part-time and full-time regular staff are eligible, though the responsibilities of some positions require being on-site. COS will aim to be flexible and accommodate requests when possible. Employees are responsible for providing their own remote work space and equipment, beyond their COS-provided laptop. COS expects that costs to accommodate a work space, such as personal Internet access or cell phone costs for connecting with those in the office, a large screen display, or renovations for the home office, will be the responsibility of the employee. Any costs associated with remote work that are expected to be covered should be discussed in advance to ensure alignment between employee and organization expectations.
 
+FMLA
+------------------
+
+COS complies with the Family Medical Leave Act. If applicable, your paid leave will run concurrently with your federally-protected leave, as defined in the Family Medical Leave Act. For your leave to be covered by FMLA, you must:
+
+-have worked for COS for at least 12 months; 
+-have worked at least 1,250 hours during the 12 months prior to the start of the FMLA leave; and, work at a location where 50 or more employees work at that location or within 75 miles of it.
+
 Paid Holidays
 ------------------
 
-The following U.S. holidays are observed by COS and do not count against Paid Time Off credit for full-time and part-time regular employees: New Year’s Day, Martin Luther King, Jr. Day, Good Friday, Memorial Day, Independence Day, Labor Day Thanksgiving Day and Black Friday, Christmas Eve, Christmas Day, and New Year’s Eve. We support cultural and community diversity. If employees celebrate holidays that are not listed above, COS will provide a floating holiday option.
+The following U.S. holidays are observed by COS and do not count against Paid Time Off credit for full-time and part-time regular employees: New Year’s Day, Martin Luther King, Jr. Day, Good Friday, Memorial Day, Independence Day, Labor Day Thanksgiving Day and Black Friday, Christmas Eve, Christmas Day, and New Year’s Eve. We support cultural and community diversity. If employees celebrate holidays that are not listed above, COS will provide a floating holiday option. All paid holidays are in the COS calendar.
 
 Bereavement Leave
 ------------------
 
-Full-time regular and part-time regular staff will be paid for up to five (5) days to attend the funeral of a family member. If additional time-off is required, it is possible to arrange with the COS management team. All other requests for time off in relation to bereavement will be decided on a case by case basis, as needed.
+Full-time regular and part-time regular staff will be paid for up to five (5) days to attend the funeral of a family member. If additional time-off is required, it is possible to arrange with your manager. All other requests for time off in relation to bereavement will be decided on a case by case basis, as needed.
 
 Jury Duty
 ------------------
 
-All staff members will be excused with pay for five (5) days if called to serve jury duty.  
+All staff members will be excused with pay for five (5) days if called to serve jury duty. 
+
+Professional Development
+------------------
+
+As part of COS’ commitment to allow employees opportunities for professional development, COS offers an additional 2 days a year for employees to attend a conference, take a class relating to their field, or attend other professional development opportunities relating to their field. This will require manager approval via email. 
 
 Health Insurance (full-time regular employees)
 ------------------
@@ -171,12 +169,7 @@ Open enrollment for vision insurance is November of each year, with an effective
 Dental Insurance
 ------------------
 
-COS will cover 100% employee premium costs under Anthem’s Blue View Vision plan and 50% of dependent and spouse premium costs. 
-
-Open enrollment for vision insurance is in November of each year with an effective date of December 1st. 
-
-Dental Insurance (full-time and part-time regular employees).  
-COS will cover 100% of  employee premium costs and 50% of spouse and dependent coverage under the Guardian Dental Insurance plan. These costs will be deducted from the employee’s paycheck pre-tax on a bi-monthly basis.
+COS will cover 100% of  employee premium costs and 50% of spouse and dependent coverage under the Principal Dental Insurance plan. These costs will be deducted from the employee’s paycheck pre-tax on a bi-monthly basis.
 
 Vanguard 401(k)
 ------------------
@@ -195,17 +188,4 @@ Employees may choose to participate in the plan at anytime or to withdraw their 
 Long-Term Disability
 ------------------
 
-COS will cover 100% of full-time regular employee premium costs under Vanguard’s long-term disability plan.  Employees are eligible for entry upon hire date and will be automatically enrolled into the plan. Coverage will begin on the first day of the subsequent month in which employees are hired (i.e., hire date 06/15 - Insurance coverage will begin 07/01).
-
-Employee Manual Statement of Understanding
-------------------
-
-This manual is subject to change in accordance with the annual renewals of various benefit plans. COS maintains full discretion to add to, modify, or delete provisions of this manual at any time.  COS staff will be notified of changes to this manual via a staff memo.  Staff are required to stay up-to-date on information contained within the Employee Manual and Policies and Procedures Manual at all times. 
-
-This manual in conjunction with your Offer Letter and Policies and Procedures Manual forms the Terms and Conditions of your employment with COS.  
-
-Employee Name (Printed): 
-
-Signed: 
-
-Dated: 
+COS will cover 100% of full-time regular employee premium costs under Principal’s long-term disability plan.  Employees are eligible for entry upon hire date and will be automatically enrolled into the plan. Coverage will begin on the first day of the subsequent month in which employees are hired (i.e., hire date 06/15 - Insurance coverage will begin 07/01).
