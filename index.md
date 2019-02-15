@@ -58,7 +58,7 @@ We encourage digital signatures, scanning receipts, and digital communication. T
 Catered Meals and Fully Stocked Kitchen
 ------------------
 
-The COS refrigerator and kitchen cabinets are fully stocked with the staff’s favorite snacks and beverages. If you notice the kitchen is out of something, indicate this on the OSF [project](osf.io/ducxj) for ordering. If you have any special requests for snacks or beverages, let the Events and Facilities Coordinator know.
+The COS refrigerator and kitchen cabinets are fully stocked with the staff’s favorite snacks and beverages. If you notice the kitchen is out of something, indicate this on the OSF [project](https://osf.io/ducxj/) for ordering. If you have any special requests for snacks or beverages, let the Events and Facilities Coordinator know.
 
 Wednesdays are left over days – many times there will be leftovers from Tuesday’s catered lunches. Help yourself or take some home with you. Remember: if you’re the last person to eat left-overs, make sure to put them away and clean up. 
 
