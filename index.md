@@ -103,7 +103,7 @@ Upon hire, all full-time COS employees receive fifteen (15) days of “Paid Time
 
 Staff must receive manager approval for PTO and indicate the time off on their COS calendar. When scheduling PTO, staff must “invite” their their manager to the event; if the manager accepts the invitation, this indicates the PTO is approved. If the invitation is declined, the PTO has been declined.
 
-All staff who cannot work due to an illness or emergency should notify the Human Resources Specialist and their team lead. Any absence due to an illness for more than 3 consecutive days will require a note from a doctor providing justification for not being in the office. Failure to provide this will be considered a voluntary separation from COS. Any absence for two (2) consecutive days without proper notification will be considered a voluntary separation from COS.
+All staff who cannot work due to an illness or emergency should notify Human Resources and their team lead. Any absence due to an illness for more than 3 consecutive days will require a note from a doctor providing justification for not being in the office. Failure to provide this will be considered a voluntary separation from COS. Any absence for two (2) consecutive days without proper notification will be considered a voluntary separation from COS.
 
 Hourly Time Tracking 
 --------------------
@@ -131,7 +131,7 @@ COS complies with the Family Medical Leave Act. If applicable, your paid leave w
 Paid Holidays
 ------------------
 
-The following U.S. holidays are observed by COS and do not count against Paid Time Off credit for full-time and part-time regular employees: New Year’s Day, Martin Luther King, Jr. Day, Good Friday, Memorial Day, Independence Day, Labor Day Thanksgiving Day and Black Friday, Christmas Eve, Christmas Day, and New Year’s Eve. We support cultural and community diversity. If employees celebrate holidays that are not listed above, COS will provide a floating holiday option. All paid holidays are in the COS calendar.
+The following U.S. holidays are observed by COS and do not count against Paid Time Off credit for full-time, regular employees. Part-time regular employees who work a set hourly schedule are eligible for paid holidays, if their regularly scheduled day to work falls on an observed holiday. Part-time regular employees who work a variable hourly schedule are not eligible for paid holidays. Holidays observed are: New Year’s Day, Martin Luther King, Jr. Day, Good Friday, Memorial Day, Independence Day, Labor Day Thanksgiving Day and Black Friday, Christmas Eve, Christmas Day, and New Year’s Eve. We support cultural and community diversity. If employees celebrate holidays that are not listed above, COS will provide a floating holiday option. All paid holidays are on the COS calendar.
 
 Bereavement Leave
 ------------------
