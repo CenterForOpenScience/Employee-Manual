@@ -146,7 +146,16 @@ All staff members will be excused with pay for five (5) days if called to serve 
 Professional Development
 ------------------
 
-As part of COS’ commitment to allow employees opportunities for professional development, COS offers an additional 2 days a year for employees to attend a conference, take a class relating to their field, or attend other professional development opportunities relating to their field. This will require manager approval via email. 
+As part of COS’ commitment to allow employees opportunities for professional development, COS offers an additional 2 days a year off (in addition to PTO) for employees to attend a conference, take a class relating to their field, or attend other professional development opportunities relating to their field. Where such opportunities are particularly aligned with job relevant professional development, COS will consider proposals for financial support toward attendance or particpation. The process for requesting financial support is: 
+
+1. Employee identifies a PD opportunity. The sooner the opportunity is requested, the better. Opportunities that are not identified prior to the event are not eligible for reimbursement. 
+2. Employee completes the [google form](https://docs.google.com/forms/d/e/1FAIpQLSdhVDoxFeOUmAVPKLvtqNmaZbFJoe3PQzWXpipAKQPou692_g/viewform), providing additional information on the opportunity, including: overview of the opportunity, location, organizer's contact information, registration deadlines, cost estimates for: airfare, group transportation (please use [this](https://www.uber.com/us/en/price-estimate/), conference fees/registration, mileage (if driving), lodging, and justification for why PD should be approved, including how it will benefit your skill development, and COS as a whole. Please note that meal per diem is not provided. 
+3. Human Resources reviews and confirms all information is correct. 
+4. Request is sent to the employee's manager/director for review/approval, who will assess based on departmental budget. 
+5. If the request is not approved, your manager/director will let you know.
+6. Upon approval, employee will coordinate with HR and Operations Manager to book the opportunity.
+7. After attending the PD session, the employee will share what they have learned during an upcoming lunch talk.
+8. Each opportunity will be vetted for fit and alignment with the work and goals of COS, as well as available funds. Please also note that funds can only be approved for use within the fiscal year, ending December 31st. 
 
 Health Insurance (full-time regular employees)
 ------------------
