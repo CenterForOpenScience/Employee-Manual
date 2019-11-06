@@ -170,7 +170,9 @@ Upon separation from COS, COBRA is extended for a maximum of 18-months/1.5 years
 
 Additionally, COS offers health, dental, and vision insurance for domestic partners. To qualify as a domestic partnership, the following terms should be met: 
 
--You are in a committed but unmarried relationship with a partner of the same or opposite sex for at least 6 months, neither person is married to someone other than the domestic partner and neither person is in a domestic partnership with another person, and you and your partner are jointly responsible for basic living expenses, such as food and housing costs. COS may require documentation of a domestic partnership, (e.g. a bill with both employee and domestic partner listed, common ownership of   property, driver’s licenses showing a shared address, etc.) 
+1. You are in a committed but unmarried relationship with a partner of the same or opposite sex for at least 6 months 
+2. Neither person is married to someone other than the domestic partner and neither person is in a domestic partnership with another person, 
+3. You and your partner are jointly responsible for basic living expenses, such as food and housing costs. COS may require documentation of a domestic partnership, (e.g. a bill with both employee and domestic partner listed, common ownership of   property, driver’s licenses showing a shared address, etc.) 
 
 Domestic partners are not a qualified beneficiary, which means they are not offered COBRA benefits when the member or the partner leaves the plan, and employee cannot pay the premium deductions on a pre-tax basis for their domestic partner. 
 
