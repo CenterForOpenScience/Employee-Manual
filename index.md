@@ -168,6 +168,14 @@ Open enrollment for the health insurance plan is in November of each year.
 
 Upon separation from COS, COBRA is extended for a maximum of 18-months/1.5 years. Under this continuation, former full-time and part-time regular employees can remain on the COS insurance plan, but are responsible for paying for the entire health insurance premium for themselves and their dependents by the 15th of each month. All payments will be managed through Zenefits, with COBRA complete acting as third party administrator. Additional information will be supplied during the time of separation through Zenefits.
 
+Additionally, COS offers health, dental, and vision insurance for domestic partners. To qualify as a domestic partnership, the following terms should be met: 
+
+-You are in a committed but unmarried relationship with a partner of the same or opposite sex for at least 6 months. 
+-Neither person is married to someone other than the domestic partner and neither person is in a domestic partnership with   another person
+-You and your partner are jointly responsible for basic living expenses, such as food and housing costs. COS may require     documentation of a domestic partnership, (e.g. a bill with both employee and domestic partner listed, common ownership of   property, driver’s licenses showing a shared address, etc.) 
+
+Domestic partners are not a qualified beneficiary, which means they are not offered COBRA benefits when the member or the partner leaves the plan, and employee cannot pay the premium deductions on a pre-tax basis for their domestic partner. 
+
 Vision Insurance
 ------------------
 
