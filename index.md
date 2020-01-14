@@ -69,6 +69,17 @@ Computing
 
 We are an Apple shop and most of our staff use laptops. Some desks are equipped with 27” monitors for expanding the digital workspace. If computing availability is not meeting your needs, discuss with the Human Resources Specialist to ensure that you have the computing resources needed for success.
 
+COS Laptop Purchase Policy
+------------------
+
+COS may offer staff the option to purchase their laptop when they leave COS, for the book value of their machine, plus 10%. For staff to qualify to buy their laptop when they leave the organization, the following terms should be met:
+
+1. Be employed by COS for at least 2 years, and leave in good standing
+2. The machine must be at least three years old
+3. If the laptop is a Macbook Pro, the option to purchase is at the discretion of the Operations Manager. Despite meeting the above terms, Macbook Pros may not be available for purchase as they may be retained for other employees depending on age, and other factors. 
+4. Once the machine has met the terms above and the purchasing party has agreed to the payment terms, a signed laptop purchase agreement will be required.
+
+
 Parking
 ------------------
 
