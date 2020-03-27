@@ -96,14 +96,14 @@ Gym Access
 
 COS staff has access to the gym facilities at the Omni. This includes access to all exercise equipment, showers, whirlpool, and indoor and outdoor pools.  Up to two COS staff can use the facilities at a time.  Per an agreement with the Omni, if the gym is in heavy use by hotel guests, then COS staff would select another time to workout. 
 
-The Events and Facilities Coordinator keeps the gym passes in a small notebook complete with a sign in/sign out sheet to ensure the passes are never misplaced. Be sure to return the pass when you are done using it. 
+The Operations Manager keeps the gym passes in a small notebook complete with a sign in/sign out sheet to ensure the passes are never misplaced. Be sure to return the pass when you are done using it. 
 
-Staff also have the option to enroll in payroll deduction for their ACAC (gym) membership dues. Please see the Human Resources Specialist if you are interested in this program or would like more information. 
+Staff also have the option to enroll in payroll deduction for their ACAC (gym) membership dues. Please see Human Resources if you are interested in this program or would like more information. 
 
 Flexible Work Schedule
 ------------------
 
-COS is committed to the well-being of its staff. To honor this, COS allows flexible hours for medical appointments (doctors’ visit, dentist appointment and other necessary appointments to maintain well-being). Appointments and time out of the office must be communicated with your team. COS also supports flexibility in work scheduling. If such flexibility is required (e.g., to support travel-heavy positions), employees must address alternative scheduling with their manager and, if such alternative scheduling occurs consistently for more than two weeks, be discussed with the Human Resources Specialist.
+COS is committed to the well-being of its staff. To honor this, COS allows flexible hours for medical appointments (doctors’ visit, dentist appointment and other necessary appointments to maintain well-being). Appointments and time out of the office must be communicated with your team. COS also supports flexibility in work scheduling. If such flexibility is required (e.g., to support travel-heavy positions), employees must address alternative scheduling with their manager and, if such alternative scheduling occurs consistently for more than two weeks, be discussed with Human Resources.
 
 Paid Time Off (PTO)
 ------------------
