@@ -38,7 +38,7 @@ Digital technologies enable high connectivity at a distance. However, many of th
 Security and Office Access
 ------------------
 
-COS offices will be accessible to full-time, regular staff at all times - even during non-standard business hours. All full-time COS staff will receive an access card to Suite 500 for accessing the Omni Downtown Business Center during non-business hours. Notify the Human Resources Specialist if a pass is lost or broken. Initial access cards will be provided and paid for by COS, but replacement passes will be the responsibility of the employee ($15 per pass). All full-time, regular staff must have a valid and working access card in order to support operations of COS. The last full-time employee to leave the office is responsible for making sure the front and back doors are locked and the security system is re-armed. (Note: this card is also used for parking at the Omni parking garage). If you encounter difficulties with the alarm system, contact information is located on the key panel for the appropriate staff members; immediately call the staff members listed to notify them.
+COS offices will be accessible to full-time, regular staff at all times - even during non-standard business hours. All full-time COS staff will receive an access card to Suite 500 for accessing the Omni Downtown Business Center during non-business hours. Notify Human Resources if a pass is lost or broken. Initial access cards will be provided and paid for by COS, but replacement passes will be the responsibility of the employee ($15 per pass). All full-time, regular staff must have a valid and working access card in order to support operations of COS. The last full-time employee to leave the office is responsible for making sure the front and back doors are locked and the security system is re-armed. (Note: this card is also used for parking at the Omni parking garage). If you encounter difficulties with the alarm system, contact information is located on the key panel for the appropriate staff members; immediately call the staff member listed to notify them.
 
 Location
 ------------------
@@ -58,7 +58,7 @@ We encourage digital signatures, scanning receipts, and digital communication. T
 Catered Meals and Fully Stocked Kitchen
 ------------------
 
-The COS refrigerator and kitchen cabinets are fully stocked with the staff’s favorite snacks and beverages. If you notice the kitchen is out of something, indicate this on the OSF [project](https://osf.io/ducxj/) for ordering. If you have any special requests for snacks or beverages, let the Events and Facilities Coordinator know.
+The COS refrigerator and kitchen cabinets are fully stocked with the staff’s favorite snacks and beverages. If you notice the kitchen is out of something, indicate this on the OSF [project](https://osf.io/ducxj/) for ordering. If you have any special requests for snacks or beverages, let the Operations Manager know.
 
 Wednesdays are left over days – many times there will be leftovers from Tuesday’s catered lunches. Help yourself or take some home with you. Remember: if you’re the last person to eat left-overs, make sure to put them away and clean up. 
 
@@ -67,7 +67,7 @@ Also, as a community kitchen, each member of the community is responsible for it
 Computing
 ------------------
 
-We are an Apple shop and most of our staff use laptops. Some desks are equipped with 27” monitors for expanding the digital workspace. If computing availability is not meeting your needs, discuss with the Human Resources Specialist to ensure that you have the computing resources needed for success.
+We are an Apple shop and most of our staff use laptops. Some desks are equipped with 27” monitors for expanding the digital workspace. If computing availability is not meeting your needs, discuss with Human Resources to ensure that you have the computing resources needed for success.
 
 COS Laptop Purchase Policy
 ------------------
@@ -79,12 +79,10 @@ COS may offer staff the option to purchase their laptop when they leave COS, for
 3. If the laptop is a Macbook Pro, the option to purchase is at the discretion of the Operations Manager. Despite meeting the above terms, Macbook Pros may not be available for purchase as they may be retained for other employees depending on age, and other factors. 
 4. Once the machine has met the terms above and the purchasing party has agreed to the payment terms, a signed laptop purchase agreement will be required.
 
-
 Parking
 ------------------
 
 Full-time, regular employees will be provided with a parking pass if needed. Because of limited parking and cost, full-time, regular employees are encouraged to use alternative transportation instead of requesting a parking pass if possible. Part-time, regular; full-time, temporary, and part-time, temporary employees will not have access to parking passes, and should likewise make use of bus routes, walking, and other modes of transportation. The Charlottesville City Transit system offers access to much of the area and all routes converge at the Downtown Mall, right near the COS offices. Please take a look at the map, and see how this will work for your transportation needs. For non full-time, regular employees, COS can reimburse for monthly bus passes if needed. Bike parking is provided on the top level of the Omni parking garage.
-
 
 COS Green and Healthy Commute Program:
 ------------------
@@ -110,34 +108,44 @@ COS is committed to the well-being of its staff. To honor this, COS allows flexi
 Paid Time Off (PTO)
 ------------------
 
-Upon hire, all full-time COS employees receive fifteen (15) days of “Paid Time Off” (PTO). Starting on a staff member’s 3-year anniversary, they will receive 18 days of PTO, and starting on a staff member’s 5-year anniversary, they will receive 20 days of PTO. Upon termination, all unused PTO will be forfeited. PTO is not accrued and has no cash value.
+Upon hire, all full-time COS employees receive fifteen (15) days of “Paid Time Off” (PTO). Starting on a staff member’s 3-year anniversary, they will receive 18 days of PTO, and starting on a staff member’s 5-year anniversary, they will receive 20 days of PTO. Upon termination, all unused PTO will be forfeited. PTO is not accrued and has no cash value. PTO follows a year-to-date schedule, based on the employee’s anniversary date. 
 
 Staff must receive manager approval for PTO and indicate the time off on their COS calendar. When scheduling PTO, staff must “invite” their manager to the event; if the manager accepts the invitation, this indicates the PTO is approved. If the invitation is declined, the PTO has been declined.
 
-All staff who cannot work due to an illness or emergency should notify Human Resources and their team lead. Any absence due to an illness for more than 3 consecutive days will require a note from a doctor providing justification for not being in the office. Failure to provide this will be considered a voluntary separation from COS. Any absence for two (2) consecutive days without proper notification will be considered a voluntary separation from COS.
+All staff who cannot work due to an illness should notify Human Resources and their team lead and use PTO for the first 2 days, unless the employee is able to work from home during that time. Any absence due to an illness for more than 2 consecutive days will require a note from a doctor providing justification for not being in the office. Failure to provide this will be considered a voluntary separation from COS, unless extenuating circumstances exist which make it difficult to provide a note in this timeframe. In this case the employee should notify Human Resources and their team lead to develop an alternative timeline for this supporting documentation.  
 
-Hourly Time Tracking 
---------------------
+COS does not have separate sick leave; however, if an employee is sick for more than 2 consecutive days, thus requiring the use of PTO, any further time off needed for that event can be drawn from our Leave for Unique Life Circumstances policy, to alleviate further PTO usage. Multiple illnesses within the same year will follow this guideline, as long as the collective time does not exceed the allotted 3 months of Paid Leave for Unique Life Circumstances, and is not applied retroactively. If an employee gets ill and has no PTO remaining, they should work with their manager on a plan, which may include taking unpaid time off. In the event an employee needs time off to care for an immediate family member or domestic partner who is ill, even if a full 3 months is not needed, this is allowed, pending immediate, or as soon as possible and practical notification of Human Resources.
 
-Hourly staff members are responsible for submitting their timecards on time for payroll processing.  Staff who do not meet these requirements will not be paid for their unrecorded time until the next pay period. All overtime hours must be recorded and pre-approved by your manager.  Hourly employees will be added to paycheckrecords.com upon hire, and be sent an email with details and temporary password to log in. If you have missed hours, or need a password reset, please notify the HR specialist.  If you are sick, or need to make a schedule change, please notify the Human Resources specialist. For more detailed information about time card due dates and corresponding pay periods, reference your welcome email from Zenefits. 
+Examples of this policy in action:
 
-Leave for Unique Life Circumstances
+1. Jane gets ill and takes the first 2 days of PTO, per the policy. She provides a doctor’s note to Human Resources on day 3 of being ill.  On day 3, she still doesn’t feel well enough to come to work. Her doctor recommends she takes another week off to recover. Jane uses 1 week of the Paid Leave for Unique Life Circumstances leave, which leaves her with 11 weeks of which to draw from in the future, should another occurrence arise with Jane or a family member. 
+2. Peggy is pregnant and knows she would like to take three months off when her baby is born in May. She gets ill in March and takes 2 days of PTO, per the policy. She provides a doctor’s note to Human Resources on day 3 of being ill. On day 3, she is still sick, but does not want to dip into the Paid Leave for Unique Life Circumstances. Knowing that she will not be able to extend her leave beyond the 3 months in May with PTO or unpaid time off, Peggy decides to use PTO for the entire time she is sick now, instead of dipping into the allotted 3 months of paid leave.  This is allowed, pending notification of Human Resources that she requests to use PTO for the entirety of her illness instead of dipping into paid leave.  
+3. Mark gets ill in July and takes 2 days of PTO, per the policy. He provides a doctor’s note to Human Resources on day 3 of being ill. Mark decides to take 2 extra days of PTO for his illness instead of dipping into the Paid Leave for Unique Life Circumstances. Later in the year, Mark realizes he does not have enough PTO to cover his vacation in December. Mark is not allowed to retroactively apply the Paid Leave for Unique Life Circumstances from his sick time in July to reclaim PTO days. 
+4. Maya gets into a car accident. She provides Human Resources with a doctor’s note as soon as she is able. She takes 2 days of PTO, per the policy. Maya has extensive injuries and requests to take paid leave for 3 months. After she’s exhausted the 3 months, Maya is still disbled and unable to work; she is now eligible for long term disability coverage. 
+
+Paid Leave for Unique Life Circumstances
 ------------------
 
-COS employees may require additional time off in order to deal with a life changing event. To offer support in these circumstances, COS offers paid leave for up to twelve (12) weeks to all full-time, regular employees to care for their child after birth, after or during the adoption process, or to care for their spouse, child, or parent who has a serious health condition. All leave must be taken in the first year after the birth or adoption or the year in which they are caring for their family member. Employees may take more than one leave for qualifying events, but a subsequent leave must be at least 12 months after your return to work from a previous family leave. The maximum leave period is 12 weeks and cannot be extended using PTO or unpaid time off. An employee must give Human Resources 30 days notice, prior to the event, if they intend to utilize this benefit. If 30 days advance notice is not possible because the foreseeable situation has changed or the employee does not know exactly when leave will be required, the employee must provide notice of the need for leave as soon as possible and practical.
+COS employees may request additional paid time off in order to deal with extended sickness or life changing events for themselves, domestic partners, or immediate family members. To offer support in these circumstances, COS offers paid leave for up to twelve (12) weeks to all full-time, regular employees. Examples of such life changing events are; to care for their child after birth, after or during the adoption process, to care for their spouse/domestic partner, child, or parent who has a serious health condition, or if the employee is unable to work because of their own serious health condition. All leave must be taken in the first year after the birth or adoption, or the year in which they are caring for their family member or spouse/domestic partner. Employees may take more than one leave for qualifying events, but may take no more than twelve (12) weeks in total per year (based on anniversary date) . The maximum leave period is 12 weeks and cannot be extended using PTO or unpaid time off. An employee must give Human Resources 30 days notice, prior to the event, if they intend to utilize this benefit. If 30 days advance notice is not possible because the foreseeable situation has changed or the employee does not know exactly when leave will be required (e.g. extended personal sickness), the employee must provide notice of the need for leave as soon as possible and practical.
 
-Remote Work for Unique Life Circumstances
-------------------
-
-COS employees may request an extended remote work arrangement in order to deal with a life changing event. Example events include temporary relocation to care for a family or friend with a serious health condition, relocation with a spouse who takes a new job elsewhere, or a change in family circumstances making daily commutes to COS impractical. To offer support in these circumstances, COS offers the flexibility to work from different geographic locations with some basic requirements. Employees must commit to participate remotely in daily team scrums, have reliable Internet access to participate in video conference calls as needed, commit to work within mostly normal Eastern business hours schedule, and commit to be in the office to meet with the team in-person at an interval agreed upon with their supervisor. Remote work arrangements will typically begin as a 6-week trial period with a formal review and decision whether to extend and if any changes to the agreement are necessary. All part-time and full-time regular staff are eligible, though the responsibilities of some positions require being on-site. COS will aim to be flexible and accommodate requests when possible. Employees are responsible for providing their own remote work space and equipment, beyond their COS-provided laptop. COS expects that costs to accommodate a work space, such as personal Internet access or cell phone costs for connecting with those in the office, a large screen display, or renovations for the home office, will be the responsibility of the employee. Any costs associated with remote work that are expected to be covered should be discussed in advance to ensure alignment between employee and organization expectations. Remote agreements are part of an ongoing performance management approach, and can be changed at any time, at the manager's discretion. 
+A domestic partner is defined in the same manner here as in COS’s medical insurance eligibility policy (see below).   
 
 FMLA
 ------------------
 
-COS complies with the Family Medical Leave Act. If applicable, your paid leave will run concurrently with your federally-protected leave, as defined in the Family Medical Leave Act. For your leave to be covered by FMLA, you must:
+COS does not meet the 50 full-time employee threshold that requires compliance with the Family Medical Leave Act, however; COS’s Leave for Unique Life Circumstances policy goes above and beyond what FMLA requires, so by default, COS is compliant with FMLA regulations, should the organization reach the 50 full-time employee threshold in the future.
 
--have worked for COS for at least 12 months; 
--have worked at least 1,250 hours during the 12 months prior to the start of the FMLA leave; and, work at a location where 50 or more employees work at that location or within 75 miles of it.
+Long-Term Disability
+------------------
+
+COS will cover 100% of full-time regular employee premium costs under Principal’s long-term disability plan. Employees are eligible for entry upon hire date and will be automatically enrolled into the plan. Coverage will begin on the first day of the subsequent month in which employees are hired.
+
+Long term disability insurance covers 60% of an employee’s monthly predisability earnings, should they become disabled. Long-term disability is available to all full-time staff, only after the Paid Leave for Unique Life Circumstances has been exhausted. Please see Human Resources for any additional questions about COS’ long-term disability policy.
+
+Hourly Time Tracking 
+--------------------
+
+Hourly staff members are responsible for submitting their timecards on time for payroll processing.  Staff who do not meet these requirements will not be paid for their unrecorded time until the next pay period. All overtime hours must be recorded and pre-approved by your manager.  Hourly employees will be added to paycheckrecords.com upon hire, and be sent an email with details and temporary password to log in. If you have missed hours, or need a password reset, please notify Human Resources. If you are sick, or need to make a schedule change, please notify Human Resources. For more detailed information about time card due dates and corresponding pay periods, reference your welcome email from Zenefits.
 
 Paid Holidays
 ------------------
@@ -153,6 +161,11 @@ Jury Duty
 ------------------
 
 All staff members will be excused with pay for five (5) days if called to serve jury duty. 
+
+Remote Work for Unique Life Circumstances
+------------------
+
+COS employees may request an extended remote work arrangement in order to deal with a life changing event. Example events include temporary relocation to care for a family or friend with a serious health condition, relocation with a spouse who takes a new job elsewhere, or a change in family circumstances making daily commutes to COS impractical. To offer support in these circumstances, COS offers the flexibility to work from different geographic locations with some basic requirements. Employees must commit to participate remotely in daily team scrums, have reliable Internet access to participate in video conference calls as needed, commit to work within mostly normal Eastern business hours schedule, and commit to be in the office to meet with the team in-person at an interval agreed upon with their supervisor. Remote work arrangements will typically begin as a 6-week trial period with a formal review and decision whether to extend and if any changes to the agreement are necessary. All part-time and full-time regular staff are eligible, though the responsibilities of some positions require being on-site. COS will aim to be flexible and accommodate requests when possible. Employees are responsible for providing their own remote work space and equipment, beyond their COS-provided laptop. COS expects that costs to accommodate a work space, such as personal Internet access or cell phone costs for connecting with those in the office, a large screen display, or renovations for the home office, will be the responsibility of the employee. Any costs associated with remote work that are expected to be covered should be discussed in advance to ensure alignment between employee and organization expectations. Remote agreements are part of an ongoing performance management approach, and can be changed at any time, at the manager's discretion.
 
 Professional Development
 ------------------
@@ -214,8 +227,3 @@ To enroll and set up your investment elections visit, https://my.vanguardplan.co
 To view the current investment lineup visit, https://drive.google.com/open?id=0B2QLi5K0y5KWZUhCOWRqeVh2VmM
 
 Employees may choose to participate in the plan at anytime or to withdraw their participation from the plan at anytime.
-
-Long-Term Disability
-------------------
-
-COS will cover 100% of full-time regular employee premium costs under Principal’s long-term disability plan.  Employees are eligible for entry upon hire date and will be automatically enrolled into the plan. Coverage will begin on the first day of the subsequent month in which employees are hired (i.e., hire date 06/15 - Insurance coverage will begin 07/01).
