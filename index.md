@@ -116,7 +116,7 @@ All staff who cannot work due to an illness should notify Human Resources and th
 
 COS does not have separate sick leave; however, if an employee is sick for more than 2 consecutive days, thus requiring the use of PTO, any further time off needed for that event can be drawn from our Leave for Unique Life Circumstances policy, to alleviate further PTO usage. Multiple illnesses within the same year will follow this guideline, as long as the collective time does not exceed the allotted 3 months of Paid Leave for Unique Life Circumstances, and is not applied retroactively. If an employee gets ill and has no PTO remaining, they should work with their manager on a plan, which may include taking unpaid time off. 
 
-In the event an employee needs time off to care for an immediate family member or domestic partner who is ill, even if a full 3 months is not needed, this is allowed, pending immediate, or as soon as possible and practical notification of Human Resources. 2 days of PTO is not required in these instances, but a doctor's note should be provided to Human Resources as soon as possible. 
+In the event an employee needs time off to care for an immediate family member or domestic partner who is ill, even if a full 3 months is not needed, this is allowed, pending immediate, or as soon as possible and practical notification of Human Resources, including providing a doctor's note. 2 days of PTO is not required in these instances. 
 
 Examples of this policy in action:
 
