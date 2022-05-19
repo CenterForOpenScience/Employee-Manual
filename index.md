@@ -11,8 +11,9 @@ Thank you for joining the Center for Open Science (COS) team. COS is a non-profi
 
 Sincerely,
 
-Brian Nosek                   Lisa Cuevas Shaw
-Executive Director            COO and Managing Director
+Brian Nosek, Executive Director
+
+Lisa Cuevas Shaw, COO and Managing Director
 
 COS Mission and Values
 ------------------
