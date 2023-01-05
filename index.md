@@ -100,7 +100,7 @@ COS also partners with [ACAC](https://acac.com/locations/) (gym), with locations
 Paid Time Off (PTO)
 ------------------
 
-Upon hire, all full-time COS employees receive 15 days of “Paid Time Off” (PTO). Starting on a staff member’s 3-year anniversary, they will receive 18 days of PTO, and starting on a staff member’s 5-year anniversary, they will receive 20 days of PTO. Upon termination, all unused PTO will be forfeited. PTO is not accrued and has no cash value. PTO follows a year-to-date schedule, based on the employee’s anniversary date.
+Upon hire, all full-time COS employees receive 20 days of “Paid Time Off” (PTO). Starting on a staff member’s 3-year anniversary, they will receive 23 days of PTO, and starting on a staff member’s 5-year anniversary, they will receive 25 days of PTO. Upon termination, all unused PTO will be forfeited. PTO is not accrued and has no cash value. PTO follows a year-to-date schedule, based on the employee’s anniversary date.
 
 Staff must receive manager approval for PTO and indicate the time off on their COS calendar. When scheduling PTO, staff must “invite” their manager to the event; if the manager accepts the invitation, this indicates the PTO is approved. If the invitation is declined, the PTO has been declined. Staff must also invite the HR@cos.io calendar for PTO tracking purposes. When submitting a request, please use the following format in the subject “First Name, Last Initial, Date of Request, Duration of Request”. For example: John D., 4/26/22, 8am - 12pm. For multi-day requests, please list the dates and state “all day” for Duration of Request.
 
