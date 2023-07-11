@@ -25,10 +25,10 @@ The Center for Open Science (COS) was founded January 15, 2013. COS aims to incr
 2. Building a community of developers, scientists, and scientific stakeholders around open practices.
 3. Conducting metascience research to improve the empirical evidence for the state of scientific practices and evaluation of means to improve those practices. 
 
-Bi-weekly All Team Meetings:
+Weekly All Team Meetings:
 ------------------
 
-The COS team meets bi-weekly (Tuesdays and Thursdays) at 11:30 a.m. ET via zoom. These meetings are intended to provide an occasion for the whole team to be together for maintaining team cohesion; sharing org wide announcements; acknowledging team achievements, anniversaries, and other events; and keeping each other informed about cross-department activities. 
+The COS team meets weekly on Tuesdays at 11:30 a.m. ET via zoom. These meetings are intended to provide an occasion for the whole team to be together for maintaining team cohesion; sharing org wide announcements; acknowledging team achievements, anniversaries, and other events; and keeping each other informed about cross-department activities. 
 
 Attendance
 ------------------
